@@ -1,5 +1,32 @@
 import random
 import argparse
+import sentencepiece as spm
+
+def get_spm_assets(spm_model_path, return_processor=True):
+    """ Load the sentencepiece model that has already been trained and get tools
+    
+    Args:
+        spm_model_path (str): Path to the SPM trained tokenizer model
+        return_processor (bool, optional): Whether to return the `SentencePieceProcessor` object
+        
+    Returns:
+        The encoder and decoder objects and, optionally, the `SentencePieceProcessor` object
+    """
+    # Coerce model path to match expected pattern
+    spm_model_path = spm_model_path+".model" if not spm_model_path.endswith(".model") else spm_model_path
+    
+    # Instantiate and load
+    sp = spm.SentencePieceProcessor()
+    sp.load(spm_model_path)
+    
+    # Create the tools
+    encoder = lambda x: sp.encode(x)
+    decoder = lambda x: sp.decode(x)
+    
+    if return_processor:
+        return sp, encoder, decoder
+    else:
+        return encoder, decoder
 
 
 def split_and_strip(raw_text, delimiter='\n\n\n'):

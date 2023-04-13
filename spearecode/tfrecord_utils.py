@@ -120,3 +120,55 @@ def write_tfrecords(ds, n_ex, output_suffix, version_str, n_ex_per_rec=10_000, s
                     writer.write(example)
                 except:
                     break
+                    
+                    
+def parse_example(example_proto, max_seq_len=384, default_value=0):
+    """
+    Parse a single example from the input tf.Example protobuf.
+
+    Args:
+        example_proto (tf.train.Example): Input tf.Example protobuf.
+        max_seq_len (int, optional): Maximum sequence length for token content. Defaults to 384.
+        default_value (int, optional): Default value for padding. Defaults to 0.
+
+    Returns:
+        tf.Tensor: Tensor containing the parsed token content.
+    """
+    # Define a feature map for parsing the example
+    feature_map = {
+        'token_content': tf.io.FixedLenFeature(
+            shape=[max_seq_len], dtype=tf.int64, 
+            default_value=[default_value]*max_seq_len
+        ) # For fixed length features
+    }
+    
+    # Parse the example and extract the token content
+    features = tf.io.parse_single_example(example_proto, features=feature_map)['token_content']
+
+    ### For variable length features
+    # feature_map = {
+    #     'token_content': tf.io.VarLenFeature(tf.int64),
+    # }
+    # parsed_example = tf.io.parse_single_example(example_proto, feature_map)
+    # features = tf.sparse.to_dense(parsed_example['token_content'])
+
+    return features
+
+
+def load_tfrecord_dataset(input_files):
+    """
+    Load a dataset from the input TFRecord files and parse the examples.
+
+    Args:
+        input_files (str or List[str]): File path or a list of file paths to the input TFRecord files.
+
+    Returns:
+        tf.data.Dataset: Parsed dataset.
+    """
+    # Read the raw dataset from the input files
+    raw_dataset = tf.data.TFRecordDataset(input_files)
+    
+    # Map the parse_example function to each example in the raw dataset
+    parsed_dataset = raw_dataset.map(parse_example)
+
+    return parsed_dataset

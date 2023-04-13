@@ -491,12 +491,12 @@ n_tokens,n_chars,n_lines,valid_chunk
 33,138,5,False
 297,992,23,True
 4,25,1,False
-310,992,24,True
+314,992,24,True
 250,872,20,True
-105,390,12,False
+107,390,12,False
 296,1002,24,True
 42,128,4,False
-241,941,29,True
+243,941,29,True
 160,577,17,True
 320,1009,25,True
 221,827,24,True
@@ -538,7 +538,7 @@ n_tokens,n_chars,n_lines,valid_chunk
 42,183,6,False
 274,957,25,True
 135,533,16,True
-177,692,19,True
+179,692,19,True
 274,994,23,True
 221,800,24,True
 151,560,16,True
