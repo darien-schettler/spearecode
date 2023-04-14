@@ -315,7 +315,7 @@ class EncoderLayer(tf.keras.layers.Layer):
         self.ffn_layer_norm = tf.keras.layers.LayerNormalization(epsilon=1e-5)
 
     def call(self, x, **kwargs):
-        x = self.self_attention(self.attn_layer_norm(x), **kwargs)
+        x = self.self_attention(self.attn_layer_norm(x))
         x = self.ffn(self.ffn_layer_norm(x), **kwargs)
         return x
 
@@ -374,7 +374,7 @@ class DecoderLayer(tf.keras.layers.Layer):
         if context is not None:
             # Include the cross attention layer if the context is provided
             # and update the last attention scores for plotting later
-            x = self.cross_attention(x=x, context=context, **kwargs)
+            x = self.cross_attention(x=x, context=context)
             self.last_attn_scores = self.cross_attention.last_attn_scores
         x = self.ffn(x, **kwargs)  # Shape `(batch_size, seq_len, d_model)`.
         return x
