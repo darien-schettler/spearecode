@@ -72,4 +72,4 @@ class CLLM(tf.keras.Model):
         ar_logits = self.decoder(decoder_input, encoded_context, **kwargs)  # (batch_size, target_len, d_model)
 
         # Return the final outputs
-        return ar_logits, mlm_logits
+        return mlm_logits, ar_logits
