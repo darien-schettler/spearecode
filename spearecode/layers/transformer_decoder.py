@@ -59,6 +59,11 @@ class TransformerDecoder(tf.keras.layers.Layer):
             vocab_size, use_bias=False, kernel_initializer=tf.keras.initializers.RandomNormal(mean=0.0, stddev=0.02)
         )
 
+    def build(self, input_shape):
+        #for _l in self.dec_layers:
+        #    _l.build(enc_input_shape)
+        super().build(input_shape)
+
     def call(self, x, encoded_context=None, **kwargs):
         """ Applies the layer to the input `x`.
 

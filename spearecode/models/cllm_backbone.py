@@ -25,6 +25,12 @@ class CLLM(tf.keras.Model):
         self.encoder = TransformerEncoder(**encoder_kwargs, **kwargs)
         self.decoder = TransformerDecoder(**decoder_kwargs, **kwargs)
 
+    def build(self, input_shape):
+        enc_input_shape, dec_input_shape = input_shape
+        self.encoder.build(enc_input_shape)
+        self.decoder.build(dec_input_shape)
+        super().build(input_shape)
+
     def call(self, inputs, **kwargs):
         """Runs a forward pass of the CLLM.
 
@@ -39,7 +45,7 @@ class CLLM(tf.keras.Model):
             ValueError: If the input has rank other than 1 or 2.
         """
         # To use a Keras model with `.fit` you must pass all your inputs in the first argument.
-        encoder_input, decoder_input = self.unpack_tf_call_inputs(inputs)
+        encoder_input, decoder_input = inputs
 
         # Get the encoder outputs that will be used in the decoder as well as for MLM logits for the MLM loss
         encoded_context, mlm_logits = self.encoder(encoder_input, **kwargs)  # (batch_size, context_len, d_model)
@@ -50,25 +56,3 @@ class CLLM(tf.keras.Model):
 
         # Return the final outputs
         return ar_logits, mlm_logits
-
-    @staticmethod
-    def unpack_tf_call_inputs(inputs):
-        """Unpacks the input tensor for use in the model.
-
-        Args:
-            inputs: The input tensor to unpack.
-
-        Returns:
-            A tuple of the encoder input tensor and the decoder input tensor.
-
-        Raises:
-            ValueError: If the input has rank other than 1 or 2.
-        """
-        # To use a Keras model with `.fit` you must pass all your inputs in the first argument.
-        if len(tf.shape(inputs)) == 1:
-            encoder_input, decoder_input = None, inputs
-        elif len(tf.shape(inputs)) == 2:
-            encoder_input, decoder_input = inputs
-        else:
-            raise ValueError(f"Expected inputs to have rank 1 or 2, but got rank {len(tf.shape(inputs))}.")
-        return encoder_input, decoder_input

@@ -49,6 +49,9 @@ class TransformerEncoder(tf.keras.layers.Layer):
             vocab_size, use_bias=False, kernel_initializer=tf.keras.initializers.RandomNormal(mean=0.0, stddev=0.02)
         )
 
+    def build(self, input_shape):
+        super().build(input_shape)
+
     def call(self, x, **kwargs):
         """Forward pass of the TransformerEncoder layer.
 
