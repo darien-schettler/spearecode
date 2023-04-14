@@ -22,10 +22,13 @@ class CLLM(tf.keras.Model):
     def __init__(self, *, encoder_kwargs, decoder_kwargs, **kwargs):
         """Initializes the CLLM with the specified hyperparameters."""
         super().__init__()
+        self.encoder_kwargs = encoder_kwargs
+        self.decoder_kwargs = decoder_kwargs
         self.encoder = TransformerEncoder(**encoder_kwargs, **kwargs)
         self.decoder = TransformerDecoder(**decoder_kwargs, **kwargs)
+        self.dummy_call()
 
-    def __build(self):
+    def dummy_call(self):
         """Builds the model."""
         # Create a dummy input to build the model
         dummy_input = (tf.zeros((None, self.encoder_kwargs["encoder_context_len"])),
