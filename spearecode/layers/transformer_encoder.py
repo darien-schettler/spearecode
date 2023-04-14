@@ -26,7 +26,7 @@ class TransformerEncoder(tf.keras.layers.Layer):
         """
     def __init__(self, vocab_size, context_length, embedding_size, n_heads, n_layers,
                  use_bias=False, ffn_act="gelu", expansion_factor=4, dropout_rate=0.1):
-        super(TransformerEncoder).__init__()
+        super().__init__()
 
         # Store the encoder layer arguments for later use
         self.enc_kwargs = dict(

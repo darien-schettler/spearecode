@@ -30,7 +30,7 @@ class TransformerDecoder(tf.keras.layers.Layer):
     """
     def __init__(self, *, vocab_size, context_length, embedding_size, n_heads, n_layers,
                  use_bias=False, ffn_act="gelu", expansion_factor=4, dropout_rate=0.1):
-        super(TransformerDecoder, self).__init__()
+        super().__init__()
 
         # Store arguments as attributes for later use
         self.embedding_size = embedding_size

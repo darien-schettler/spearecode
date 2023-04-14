@@ -238,7 +238,7 @@ class FeedForwardNetwork(tf.keras.layers.Layer):
     """
 
     def __init__(self, embedding_size, use_bias=False, dropout_rate=0.1, ffn_act="gelu", fc_expansion_factor=4):
-        super(FeedForwardNetwork, self).__init__()
+        super().__init__()
 
         # Calculated attribute values for our layers
         self.ffn_act = tf.keras.activations.get(ffn_act)
@@ -340,7 +340,7 @@ class DecoderLayer(tf.keras.layers.Layer):
     def __init__(self, *, embedding_size, n_heads,
                  use_bias=False, ffn_act="gelu",
                  expansion_factor=4, dropout_rate=0.1):
-        super(DecoderLayer, self).__init__()
+        super().__init__()
 
         self.last_attn_scores = None
         self.causal_self_attention = DecoderSelfAttention(

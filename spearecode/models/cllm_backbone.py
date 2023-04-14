@@ -21,7 +21,7 @@ class CLLM(tf.keras.Model):
     """
     def __init__(self, *, encoder_kwargs, decoder_kwargs, **kwargs):
         """Initializes the CLLM with the specified hyperparameters."""
-        super(CLLM).__init__()
+        super().__init__()
         self.encoder = TransformerEncoder(**encoder_kwargs, **kwargs)
         self.decoder = TransformerDecoder(**decoder_kwargs, **kwargs)
 
