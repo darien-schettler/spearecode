@@ -144,7 +144,7 @@ class CrossAttention(BaseAttention):
             cross-attention layer.
         """
         # Perform the cross attention and update the input with the attention output
-        attn_output, attn_scores = self.mha(query=x, key=context, value=context, return_attention_scores=True, **kwargs)
+        attn_output, attn_scores = self.mha(query=x, key=context, value=context, return_attention_scores=True)
         x = self.add([x, attn_output])
 
         # Cache the attention scores for plotting later
@@ -376,5 +376,5 @@ class DecoderLayer(tf.keras.layers.Layer):
             # and update the last attention scores for plotting later
             x = self.cross_attention(x=x, context=context)
             self.last_attn_scores = self.cross_attention.last_attn_scores
-        x = self.ffn(x, **kwargs)  # Shape `(batch_size, seq_len, d_model)`.
+        x = self.ffn(x)  # Shape `(batch_size, seq_len, d_model)`.
         return x
