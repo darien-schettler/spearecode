@@ -28,6 +28,8 @@ class TransformerEncoder(tf.keras.layers.Layer):
                  use_bias=False, ffn_act="gelu", expansion_factor=4, dropout_rate=0.1):
         super().__init__()
 
+        self.supports_masking = True
+
         # Store the encoder layer arguments for later use
         self.enc_kwargs = dict(
             embedding_size=embedding_size, n_heads=n_heads, use_bias=use_bias, ffn_act=ffn_act,
