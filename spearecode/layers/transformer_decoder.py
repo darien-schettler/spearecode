@@ -32,6 +32,8 @@ class TransformerDecoder(tf.keras.layers.Layer):
                  use_bias=False, ffn_act="gelu", expansion_factor=4, dropout_rate=0.1):
         super().__init__()
 
+        self.supports_masking = True
+
         # Store arguments as attributes for later use
         self.embedding_size = embedding_size
         self.n_layers = n_layers
@@ -40,7 +42,7 @@ class TransformerDecoder(tf.keras.layers.Layer):
         # Store the decoder layer arguments for later use
         self.dec_kwargs = dict(
             embedding_size=embedding_size, n_heads=n_heads, use_bias=use_bias, ffn_act=ffn_act,
-            expansion_factor=expansion_factor, dropout_rate=dropout_rate
+            expansion_factor=expansion_factor, dropout_rate=dropout_rate,
         )
 
         # Initialize positional embedding for the input tokens

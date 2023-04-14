@@ -97,6 +97,7 @@ class BaseAttention(tf.keras.layers.Layer):
     """
     def __init__(self, **kwargs):
         super().__init__()
+        self.supports_masking = True
         self.mha = MultiHeadAttention(**kwargs)
         self.add = tf.keras.layers.Add()
 
@@ -239,6 +240,7 @@ class FeedForwardNetwork(tf.keras.layers.Layer):
 
     def __init__(self, embedding_size, use_bias=False, dropout_rate=0.1, ffn_act="gelu", fc_expansion_factor=4):
         super().__init__()
+        self.supports_masking = True
 
         # Calculated attribute values for our layers
         self.ffn_act = tf.keras.activations.get(ffn_act)
@@ -302,7 +304,7 @@ class EncoderLayer(tf.keras.layers.Layer):
                  use_bias=False, ffn_act="gelu",
                  expansion_factor=4, dropout_rate=0.1):
         super().__init__()
-
+        self.supports_masking = True
         self.self_attention = EncoderSelfAttention(
             num_heads=n_heads, key_dim=embedding_size, dropout=dropout_rate, use_bias=use_bias
         )
@@ -341,7 +343,7 @@ class DecoderLayer(tf.keras.layers.Layer):
                  use_bias=False, ffn_act="gelu",
                  expansion_factor=4, dropout_rate=0.1):
         super().__init__()
-
+        self.supports_masking = True
         self.last_attn_scores = None
         self.causal_self_attention = DecoderSelfAttention(
             num_heads=n_heads, key_dim=embedding_size, dropout=dropout_rate, use_bias=use_bias
