@@ -19,9 +19,17 @@ class CLLM(tf.keras.Model):
         ValueError: If the input has rank other than 1 or 2.
 
     """
-    def __init__(self, *, encoder_kwargs, decoder_kwargs, **kwargs):
+    def __init__(self, *, encoder_kwargs, decoder_kwargs, batch_size, **kwargs):
         """Initializes the CLLM with the specified hyperparameters."""
         super().__init__()
+
+        # Set desired batch_size for initial build
+        self.batch_size = batch_size
+
+        # Unpack kwargs and set them as model attributes
+        for key, value in kwargs.items():
+            setattr(self, key, value)
+
         self.encoder_kwargs = encoder_kwargs
         self.decoder_kwargs = decoder_kwargs
         self.encoder = TransformerEncoder(**encoder_kwargs, **kwargs)
@@ -31,8 +39,8 @@ class CLLM(tf.keras.Model):
     def dummy_call(self):
         """Builds the model."""
         # Create a dummy input to build the model
-        dummy_input = (tf.zeros((None, self.encoder_kwargs["context_length"])),
-                       tf.zeros((None, self.decoder_kwargs["context_length"])))
+        dummy_input = (tf.zeros((self.batch_size, self.encoder_kwargs["context_length"])),
+                       tf.zeros((self.batch_size, self.decoder_kwargs["context_length"])))
         self.call(dummy_input)
 
     def call(self, inputs, **kwargs):
