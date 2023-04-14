@@ -8,15 +8,8 @@ class CLLM(tf.keras.Model):
     """A Code Large Language Model (CLLM) that implements the basic AlphaCode architecture for code generation tasks.
 
     Args:
-        vocab_size (int): The size of the vocabulary used for tokenization.
-        context_length (int): The length of the input context for the model.
-        embedding_size (int): The size of the embedding vectors for each token.
-        n_heads (int): The number of attention heads to use in the model.
-        n_layers (int): The number of encoder and decoder layers to use in the model.
-        use_bias (bool, optional): Whether or not to include bias terms in the layers.
-        ffn_act (str, optional): The activation function to use in the feedforward layers. Can be "gelu" or "relu".
-        expansion_factor (int, optional): The expansion factor to use in the feedforward layers.
-        dropout_rate (float, optional): The rate of dropout to use in the model.
+        encoder_kwargs (dict): The keyword arguments for the TransformerEncoder.
+        decoder_kwargs (dict): The keyword arguments for the TransformerDecoder.
 
     Attributes:
         encoder (TransformerEncoder): The Transformer encoder for the CLLM.
@@ -26,17 +19,11 @@ class CLLM(tf.keras.Model):
         ValueError: If the input has rank other than 1 or 2.
 
     """
-    def __init__(self, *, vocab_size, context_length, embedding_size, n_heads, n_layers,
-                 use_bias=False, ffn_act="gelu", expansion_factor=4, dropout_rate=0.1):
+    def __init__(self, *, encoder_kwargs, decoder_kwargs, **kwargs):
         """Initializes the CLLM with the specified hyperparameters."""
         super(CLLM).__init__()
-        transformer_kwargs = dict(
-            vocab_size=vocab_size, context_length=context_length, embedding_size=embedding_size,
-            n_heads=n_heads, n_layers=n_layers, use_bias=use_bias, ffn_act=ffn_act,
-            expansion_factor=expansion_factor, dropout_rate=dropout_rate
-        )
-        self.encoder = TransformerEncoder(**transformer_kwargs)
-        self.decoder = TransformerDecoder(**transformer_kwargs)
+        self.encoder = TransformerEncoder(**encoder_kwargs, **kwargs)
+        self.decoder = TransformerDecoder(**decoder_kwargs, **kwargs)
 
     def call(self, inputs, **kwargs):
         """Runs a forward pass of the CLLM.
