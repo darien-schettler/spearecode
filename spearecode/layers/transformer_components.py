@@ -198,7 +198,8 @@ class DecoderSelfAttention(BaseAttention):
         """
 
         # Perform the causal self attention and update the input with the attention output
-        attn_output = self.mha(query=x, value=x, key=x, use_causal_mask=True)
+        attn_kwargs = dict(use_causal_mask=True)
+        attn_output = self.mha(query=x, value=x, key=x, **attn_kwargs)
         x = self.add([x, attn_output])
         return x
 

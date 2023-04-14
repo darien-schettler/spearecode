@@ -30,10 +30,15 @@ class CLLM(tf.keras.Model):
         for key, value in kwargs.items():
             setattr(self, key, value)
 
+        # Set the encoder and decoder kwargs as model attributes
         self.encoder_kwargs = encoder_kwargs
         self.decoder_kwargs = decoder_kwargs
+
+        # Initialize the encoder and decoder
         self.encoder = TransformerEncoder(**encoder_kwargs, **kwargs)
         self.decoder = TransformerDecoder(**decoder_kwargs, **kwargs)
+
+        # Dummy call with desired using self.batch_size to build the model
         self.dummy_call()
 
     def dummy_call(self):
