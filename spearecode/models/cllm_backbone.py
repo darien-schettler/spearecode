@@ -31,8 +31,8 @@ class CLLM(tf.keras.Model):
     def dummy_call(self):
         """Builds the model."""
         # Create a dummy input to build the model
-        dummy_input = (tf.zeros((None, self.encoder_kwargs["enc_context_len"])),
-                       tf.zeros((None, self.decoder_kwargs["dec_context_len"])))
+        dummy_input = (tf.zeros((None, self.encoder_kwargs["context_length"])),
+                       tf.zeros((None, self.decoder_kwargs["context_length"])))
         self.call(dummy_input)
 
     def call(self, inputs, **kwargs):
