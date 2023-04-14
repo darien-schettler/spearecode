@@ -1,6 +1,6 @@
 import numpy as np
 import tensorflow as tf
-
+from spearecode.layers.tf_workarounds import MultiHeadAttention
 
 def positional_encoding(length, depth):
     """Returns the positional encoding for a given length and depth.
@@ -97,7 +97,7 @@ class BaseAttention(tf.keras.layers.Layer):
     """
     def __init__(self, **kwargs):
         super().__init__()
-        self.mha = tf.keras.layers.MultiHeadAttention(**kwargs)
+        self.mha = MultiHeadAttention(**kwargs)
         self.add = tf.keras.layers.Add()
 
     def call(self, x, *args, **kwargs):
