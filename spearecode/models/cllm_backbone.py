@@ -25,11 +25,12 @@ class CLLM(tf.keras.Model):
         self.encoder = TransformerEncoder(**encoder_kwargs, **kwargs)
         self.decoder = TransformerDecoder(**decoder_kwargs, **kwargs)
 
-    def build(self, input_shape):
-        enc_input_shape, dec_input_shape = input_shape
-        self.encoder.build(enc_input_shape)
-        self.decoder.build(dec_input_shape)
-        super().build(input_shape)
+    def __build(self):
+        """Builds the model."""
+        # Create a dummy input to build the model
+        dummy_input = (tf.zeros((None, self.encoder_kwargs["encoder_context_len"])),
+                       tf.zeros((None, self.decoder_kwargs["decoder_context_len"])))
+        self.call(dummy_input)
 
     def call(self, inputs, **kwargs):
         """Runs a forward pass of the CLLM.
