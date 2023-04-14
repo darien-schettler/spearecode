@@ -248,7 +248,7 @@ class FeedForwardNetwork(tf.keras.layers.Layer):
         # The fully connected layer that expands the input features (default factor of 4)
         self.fc_expansion = tf.keras.layers.Dense(
             self.fc_expansion_dim,
-            activation=self.gelu_act,
+            activation=self.ffn_act,
             use_bias=use_bias,
             kernel_initializer=tf.keras.initializers.RandomNormal(mean=0.0, stddev=0.02)
         )
