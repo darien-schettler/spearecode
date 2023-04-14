@@ -46,7 +46,7 @@ class CLLM(tf.keras.Model):
         # Create a dummy input to build the model
         dummy_input = (tf.zeros((self.batch_size, self.encoder_kwargs["context_length"])),
                        tf.zeros((self.batch_size, self.decoder_kwargs["context_length"])))
-        self.call(dummy_input)
+        self(dummy_input)
 
     def call(self, inputs, **kwargs):
         """Runs a forward pass of the CLLM.
