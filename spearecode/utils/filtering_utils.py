@@ -52,13 +52,13 @@ def tokenize(text: str, encoder: Callable) -> List[int]:
     return encoder(text)
 
 
-def check_chunks(n_tokens: int, min_chunk_size: int = 128, max_chunk_size: int = 2048) -> bool:
+def check_chunks(n_tokens: int, min_chunk_size: int = 128, max_chunk_size: int = 8096) -> bool:
     """ Check if the number of tokens falls within the specified chunk size range.
 
     Args:
         n_tokens (int): Number of tokens.
         min_chunk_size (int, optional): Minimum chunk size. Defaults to 128.
-        max_chunk_size (int, optional): Maximum chunk size. Defaults to 2048.
+        max_chunk_size (int, optional): Maximum chunk size. Defaults to 8096.
 
     Returns:
         bool: True if the number of tokens falls within the specified range, False otherwise.

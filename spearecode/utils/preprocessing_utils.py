@@ -24,7 +24,9 @@ def get_spm_assets(spm_model_path, return_processor=True, special_nl_token=True,
 
     # Create the tools
     if special_nl_token:
-        encoder = lambda x: sp.encode(x.replace("\n", "[NL]"))
+        encoder = lambda x: sp.encode(
+            x.replace("\n", "[NL]") if isinstance(x, str) else [_x.replace("\n", "[NL]") for _x in x]
+        )
         decoder = lambda x: sp.decode(x).replace("[NL]", "\n")
     else:
         encoder = lambda x: sp.encode(x)
