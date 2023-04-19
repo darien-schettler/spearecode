@@ -5,13 +5,13 @@ import sentencepiece as spm
 
 def get_spm_assets(spm_model_path, return_processor=True, special_nl_token=True, nl_token="[NL]"):
     """ Load the sentencepiece model that has already been trained and get tools
-    
+
     Args:
         spm_model_path (str): Path to the SPM trained tokenizer model
         return_processor (bool, optional): Whether to return the `SentencePieceProcessor` object
         special_nl_token (bool, optional): Whether to use a special token for newlines
         nl_token (str, optional): The special token to use for newlines
-        
+
     Returns:
         The encoder and decoder objects and, optionally, the `SentencePieceProcessor` object
     """
@@ -24,12 +24,8 @@ def get_spm_assets(spm_model_path, return_processor=True, special_nl_token=True,
 
     # Create the tools
     if special_nl_token:
-        encoder = lambda x: sp.encode(
-            x.replace("\n", "[NL]") if isinstance(x, str) else [_x.replace("\n", "[NL]") for _x in x]
-        )
-        decoder = lambda x: \
-            [_x.replace("[NL]", "\n") for _x in sp.decode(x)] if isinstance(x[0], list) else \
-            sp.decode(x).replace("[NL]", "\n")
+        encoder = lambda x: sp.encode(x.replace("\n", nl_token))
+        decoder = lambda x: sp.decode(x).replace(nl_token, "\n")
     else:
         encoder = lambda x: sp.encode(x)
         decoder = lambda x: sp.decode(x)
