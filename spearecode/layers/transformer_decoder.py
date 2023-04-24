@@ -101,6 +101,6 @@ class TransformerDecoder(tf.keras.layers.Layer):
         ar_logits = self.ar_head(x)  # (batch_size, target_seq_len, vocab_size)
 
         # Prevent scaling of logits due to masked positions
-        ar_logits = prevent_mask_scaling(ar_logits)
+        # ar_logits = prevent_mask_scaling(ar_logits)
 
         return ar_logits
