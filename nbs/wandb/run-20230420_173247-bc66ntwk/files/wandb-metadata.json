@@ -1,0 +1,104 @@
+{
+    "os": "Linux-5.4.0-146-generic-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-04-20T17:32:48.283287",
+    "startedAt": "2023-04-20T17:32:47.912459",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "home/spearecode/nbs/data_preprocessing.ipynb",
+    "root": "/home/paperspace/home/spearecode",
+    "git": {
+        "remote": "https://github.com/darien-schettler/spearecode.git",
+        "commit": "15e6c60df061023a13838e701ef0028d6b960c84"
+    },
+    "email": "darien_schettler@hotmail.com",
+    "host": "psi2dlw5u",
+    "username": "paperspace",
+    "executable": "/usr/local/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2800.105,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2800.105,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1968.4833221435547,
+        "used": 25.222972869873047
+    },
+    "gpu": "NVIDIA A100-SXM4-80GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA A100-SXM4-80GB",
+            "memory_total": 85899345920
+        }
+    ],
+    "memory": {
+        "total": 88.38550567626953
+    }
+}

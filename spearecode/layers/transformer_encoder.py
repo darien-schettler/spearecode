@@ -77,7 +77,7 @@ class TransformerEncoder(tf.keras.layers.Layer):
         mlm_logits = self.mlm_head(x)  # (batch_size, context_len, vocab_size)
 
         # Prevent scaling of logits due to masked positions
-        mlm_logits = prevent_mask_scaling(mlm_logits)
+        # mlm_logits = prevent_mask_scaling(mlm_logits)
 
         # Shape `(batch_size, n_context, embedding_size)`.
         return x, mlm_logits

@@ -1,0 +1,1963 @@
+... DATASET INFO:
+	NUMBER OF CHARS --> 5,419,872
+	NUMBER OF LINES --> 120,696
+... FIRST 1000 CHARACTERS:
+1
+  From fairest creatures we desire increase,
+  That thereby beauty's rose might never die,
+  But as the riper should by time decease,
+  His tender heir might bear his memory:
+  But thou contracted to thine own bright eyes,
+  Feed'st thy light's flame with self-substantial fuel,
+  Making a famine where abundance lies,
+  Thy self thy foe, to thy sweet self too cruel:
+  Thou that art now the world's fresh ornament,
+  And only herald to the gaudy spring,
+  Within thine own bud buriest thy content,
+  And tender churl mak'st waste in niggarding:
+    Pity the world, or else this glutton be,
+    To eat the world's due, by the grave and thee.
+2
+  When forty winters shall besiege thy brow,
+  And dig deep trenches in thy beauty's field,
+  Thy youth's proud livery so gazed on now,
+  Will be a tattered weed of small worth held:
+  Then being asked, where all thy beauty lies,
+  Where all the treasure of thy lusty days;
+  To say within thine own deep sunken eyes,
+  Were an all-eating shame, and
+... LAST 1000 CHARACTERS:
+hite and swoon at tragic shows;
+  'That not a heart which in his level came
+  Could scape the hail of his all-hurting aim,
+  Showing fair nature is both kind and tame;
+  And, veiled in them, did win whom he would maim.
+  Against the thing he sought he would exclaim;
+  When he most burned in heart-wished luxury,
+  He preached pure maid and praised cold chastity.
+  'Thus merely with the garment of a Grace
+  The naked and concealed fiend he covered,
+  That th' unexperient gave the tempter place,
+  Which, like a cherubin, above them hovered.
+  Who, young and simple, would not be so lovered?
+  Ay me, I fell, and yet do question make
+  What I should do again for such a sake.
+  'O, that infected moisture of his eye,
+  O, that false fire which in his cheek so glowed,
+  O, that forced thunder from his heart did fly,
+  O, that sad breath his spongy lungs bestowed,
+  O, all that borrowed motion, seeming owed,
+  Would yet again betray the fore-betrayed,
+  And new pervert a reconciled maid.'
+... RANDOM 1000 CHARACTERS:
+Although she knows my days are past the best,
+  Simply I credit her false-speaking tongue,
+  On both sides thus is simple truth suppressed:
+  But wherefore says she not she is unjust?
+  And wherefore say not I that I am old?
+  O love's best habit is in seeming trust,
+  And age in love, loves not to have years told.
+    Therefore I lie with her, and she with me,
+    And in our faults by lies we flattered be.
+139
+  O call not me to justify the wrong,
+  That thy unkindness lays upon my heart,
+  Wound me not with thine eye but with thy tongue,
+  Use power with power, and slay me not by art,
+  Tell me thou lov'st elsewhere; but in my sight,
+  Dear heart forbear to glance thine eye aside,
+  What need'st thou wound with cunning when thy might
+  Is more than my o'erpressed defence can bide?
+  Let me excuse thee, ah my love well knows,
+  Her pretty looks have been mine enemies,
+  And therefore from my face she turns my foes,
+  That they elsewhere might dart their injuries:
+    Yet do not
+[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+[31mgradient 2.0.6 requires marshmallow<3.0, but you have marshmallow 3.19.0 which is incompatible.
+... FIRST BASIC CHUNK ...
+  'O, that infected moisture of his eye,
+  O, that false fire which in his cheek so glowed,
+  O, that forced thunder from his heart did fly,
+  O, that sad breath his spongy lungs bestowed,
+  O, all that borrowed motion, seeming owed,
+  Would yet again betray the fore-betrayed,
+  And new pervert a reconciled maid.'
+... FIRST RCTS CHUNK ...
+1
+  From fairest creatures we desire increase,
+  That thereby beauty's rose might never die,
+  But as the riper should by time decease,
+  His tender heir might bear his memory:
+  But thou contracted to thine own bright eyes,
+  Feed'st thy light's flame with self-substantial fuel,
+  Making a famine where abundance lies,
+  Thy self thy foe, to thy sweet self too cruel:
+  Thou that art now the world's fresh ornament,
+  And only herald to the gaudy spring,
+  Within thine own bud buriest thy content,
+  And tender churl mak'st waste in niggarding:
+    Pity the world, or else this glutton be,
+    To eat the world's due, by the grave and thee.
+... EXAMPLE RANDOM BASIC CHUNK ...
+           'Then music with her silver sound
+             With speedy help doth lend redress.'         (Exit.
+                         Enter Peter.
+  1. Mus. Ay, by my troth, the case may be amended.
+    For well you know this is a pitiful case.            (Exit.)
+  Nurse. Honest good fellows, ah, put up, put up!
+... EXAMPLE RANDOM RCTS CHUNK ...
+God is our fortress, in whose conquering name
+    Let us resolve to scale their flinty bulwarks.
+  BEDFORD. Ascend, brave Talbot; we will follow thee.
+  TALBOT. Not all together; better far, I guess,
+    That we do make our entrance several ways;
+    That if it chance the one of us do fail
+    The other yet may rise against their force.
+  BEDFORD. Agreed; I'll to yond corner.
+  BURGUNDY. And I to this.
+  TALBOT. And here will Talbot mount or make his grave.
+    Now, Salisbury, for thee, and for the right
+    Of English Henry, shall this night appear
+    How much in duty I am bound to both.
+             (The English scale the walls and cry 'Saint George!
+                                                     a Talbot!')
+    SENTINEL. Arm! arm! The enemy doth make assault.
+... LAST BASIC CHUNK ...
+  KING OF FRANCE
+  THE DUKE OF FLORENCE
+  BERTRAM, Count of Rousillon
+  LAFEU, an old lord
+  PAROLLES, a follower of Bertram
+  TWO FRENCH LORDS, serving with Bertram
+Dramatis Personae
+... LAST RCTS CHUNK ...
+'That not a heart which in his level came
+  Could scape the hail of his all-hurting aim,
+  Showing fair nature is both kind and tame;
+  And, veiled in them, did win whom he would maim.
+  Against the thing he sought he would exclaim;
+  When he most burned in heart-wished luxury,
+  He preached pure maid and praised cold chastity.
+  'Thus merely with the garment of a Grace
+  The naked and concealed fiend he covered,
+  That th' unexperient gave the tempter place,
+  Which, like a cherubin, above them hovered.
+  Who, young and simple, would not be so lovered?
+  Ay me, I fell, and yet do question make
+  What I should do again for such a sake.
+  'O, that infected moisture of his eye,
+  O, that false fire which in his cheek so glowed,
+  O, that forced thunder from his heart did fly,
+  O, that sad breath his spongy lungs bestowed,
+  O, all that borrowed motion, seeming owed,
+  Would yet again betray the fore-betrayed,
+  And new pervert a reconciled maid.'
+sentencepiece_trainer.cc(77) LOG(INFO) Starts training with :
+trainer_spec {
+  input: /home/paperspace/home/spearecode/data/t8.shakespeare_preprocessed.txt
+  input_format:
+  model_prefix: /home/paperspace/home/spearecode/models/spearecode_uni
+  model_type: UNIGRAM
+  vocab_size: 8000
+  self_test_sample_size: 0
+  character_coverage: 1
+  input_sentence_size: 0
+  shuffle_input_sentence: 1
+  seed_sentencepiece_size: 1000000
+  shrinking_factor: 0.75
+  max_sentence_length: 4192
+  num_threads: 8
+  num_sub_iterations: 2
+  max_sentencepiece_length: 16
+  split_by_unicode_script: 1
+  split_by_number: 1
+  split_by_whitespace: 1
+  split_digits: 0
+  treat_whitespace_as_suffix: 0
+  allow_whitespace_only_pieces: 1
+  user_defined_symbols: [MASK]
+  required_chars:
+  byte_fallback: 0
+  vocabulary_output_piece_score: 1
+  train_extremely_large_corpus: 0
+  hard_vocab_limit: 1
+  use_all_vocab: 0
+  unk_id: 1
+  bos_id: 2
+  eos_id: 3
+  pad_id: 0
+  unk_piece: <unk>
+  bos_piece: <s>
+  eos_piece: </s>
+  pad_piece: <pad>
+  unk_surface:  ⁇
+  enable_differential_privacy: 0
+  differential_privacy_noise_level: 0
+  differential_privacy_clipping_threshold: 0
+}
+normalizer_spec {
+  name: identity
+  add_dummy_prefix: 0
+  remove_extra_whitespaces: 0
+  escape_whitespaces: 1
+  normalization_rule_tsv:
+}
+denormalizer_spec {}
+trainer_interface.cc(350) LOG(INFO) SentenceIterator is not specified. Using MultiFileSentenceIterator.
+trainer_interface.cc(181) LOG(INFO) Loading corpus: /home/paperspace/home/spearecode/data/t8.shakespeare_preprocessed.txt
+trainer_interface.cc(406) LOG(INFO) Loaded all 114360 sentences
+trainer_interface.cc(422) LOG(INFO) Adding meta_piece: <pad>
+trainer_interface.cc(422) LOG(INFO) Adding meta_piece: <unk>
+trainer_interface.cc(422) LOG(INFO) Adding meta_piece: <s>
+trainer_interface.cc(422) LOG(INFO) Adding meta_piece: </s>
+trainer_interface.cc(422) LOG(INFO) Adding meta_piece: [MASK]
+trainer_interface.cc(427) LOG(INFO) Normalizing sentences...
+trainer_interface.cc(536) LOG(INFO) all chars count=5299176
+trainer_interface.cc(557) LOG(INFO) Alphabet size=77
+trainer_interface.cc(558) LOG(INFO) Final character coverage=1
+trainer_interface.cc(590) LOG(INFO) Done! preprocessed 114360 sentences.
+unigram_model_trainer.cc(146) LOG(INFO) Making suffix array...
+unigram_model_trainer.cc(150) LOG(INFO) Extracting frequent sub strings...
+unigram_model_trainer.cc(201) LOG(INFO) Initialized 78089 seed sentencepieces
+trainer_interface.cc(596) LOG(INFO) Tokenizing input sentences with whitespace: 114360
+trainer_interface.cc(607) LOG(INFO) Done! 77750
+unigram_model_trainer.cc(491) LOG(INFO) Using 77750 sentences for EM training
+unigram_model_trainer.cc(507) LOG(INFO) EM sub_iter=0 size=31260 obj=12.1669 num_tokens=175594 num_tokens/piece=5.61721
+unigram_model_trainer.cc(507) LOG(INFO) EM sub_iter=1 size=25419 obj=9.62394 num_tokens=177420 num_tokens/piece=6.97982
+unigram_model_trainer.cc(507) LOG(INFO) EM sub_iter=0 size=19056 obj=9.5851 num_tokens=184455 num_tokens/piece=9.67963
+unigram_model_trainer.cc(507) LOG(INFO) EM sub_iter=1 size=19034 obj=9.54152 num_tokens=184468 num_tokens/piece=9.6915
+unigram_model_trainer.cc(507) LOG(INFO) EM sub_iter=0 size=14275 obj=9.63803 num_tokens=196779 num_tokens/piece=13.7849
+unigram_model_trainer.cc(507) LOG(INFO) EM sub_iter=1 size=14275 obj=9.61312 num_tokens=198143 num_tokens/piece=13.8804
+unigram_model_trainer.cc(507) LOG(INFO) EM sub_iter=0 size=10706 obj=9.76839 num_tokens=213280 num_tokens/piece=19.9215
+unigram_model_trainer.cc(507) LOG(INFO) EM sub_iter=1 size=10706 obj=9.73732 num_tokens=213252 num_tokens/piece=19.9189
+unigram_model_trainer.cc(507) LOG(INFO) EM sub_iter=0 size=8800 obj=9.8596 num_tokens=224558 num_tokens/piece=25.518
+unigram_model_trainer.cc(507) LOG(INFO) EM sub_iter=1 size=8800 obj=9.83874 num_tokens=224561 num_tokens/piece=25.5183
+trainer_interface.cc(685) LOG(INFO) Saving model: /home/paperspace/home/spearecode/models/spearecode_uni.model
+trainer_interface.cc(697) LOG(INFO) Saving vocabs: /home/paperspace/home/spearecode/models/spearecode_uni.vocab
+sentencepiece_trainer.cc(77) LOG(INFO) Starts training with :
+trainer_spec {
+  input: /home/paperspace/home/spearecode/data/t8.shakespeare_preprocessed.txt
+  input_format:
+  model_prefix: /home/paperspace/home/spearecode/models/spearecode_bpe
+  model_type: BPE
+  vocab_size: 8000
+  self_test_sample_size: 0
+  character_coverage: 1
+  input_sentence_size: 0
+  shuffle_input_sentence: 1
+  seed_sentencepiece_size: 1000000
+  shrinking_factor: 0.75
+  max_sentence_length: 4192
+  num_threads: 8
+  num_sub_iterations: 2
+  max_sentencepiece_length: 16
+  split_by_unicode_script: 1
+  split_by_number: 1
+  split_by_whitespace: 1
+  split_digits: 0
+  treat_whitespace_as_suffix: 0
+  allow_whitespace_only_pieces: 1
+  user_defined_symbols: [MASK]
+  required_chars:
+  byte_fallback: 0
+  vocabulary_output_piece_score: 1
+  train_extremely_large_corpus: 0
+  hard_vocab_limit: 1
+  use_all_vocab: 0
+  unk_id: 1
+  bos_id: 2
+  eos_id: 3
+  pad_id: 0
+  unk_piece: <unk>
+  bos_piece: <s>
+  eos_piece: </s>
+  pad_piece: <pad>
+  unk_surface:  ⁇
+  enable_differential_privacy: 0
+  differential_privacy_noise_level: 0
+  differential_privacy_clipping_threshold: 0
+}
+normalizer_spec {
+  name: identity
+  add_dummy_prefix: 0
+  remove_extra_whitespaces: 0
+  escape_whitespaces: 1
+  normalization_rule_tsv:
+}
+denormalizer_spec {}
+trainer_interface.cc(350) LOG(INFO) SentenceIterator is not specified. Using MultiFileSentenceIterator.
+trainer_interface.cc(181) LOG(INFO) Loading corpus: /home/paperspace/home/spearecode/data/t8.shakespeare_preprocessed.txt
+trainer_interface.cc(406) LOG(INFO) Loaded all 114360 sentences
+trainer_interface.cc(422) LOG(INFO) Adding meta_piece: <pad>
+trainer_interface.cc(422) LOG(INFO) Adding meta_piece: <unk>
+trainer_interface.cc(422) LOG(INFO) Adding meta_piece: <s>
+trainer_interface.cc(422) LOG(INFO) Adding meta_piece: </s>
+trainer_interface.cc(422) LOG(INFO) Adding meta_piece: [MASK]
+trainer_interface.cc(427) LOG(INFO) Normalizing sentences...
+trainer_interface.cc(536) LOG(INFO) all chars count=5299176
+trainer_interface.cc(557) LOG(INFO) Alphabet size=77
+trainer_interface.cc(558) LOG(INFO) Final character coverage=1
+trainer_interface.cc(590) LOG(INFO) Done! preprocessed 114360 sentences.
+trainer_interface.cc(596) LOG(INFO) Tokenizing input sentences with whitespace: 114360
+trainer_interface.cc(607) LOG(INFO) Done! 77750
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=250614 min_freq=21
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=28144 size=20 all=2074 active=1662 piece=▁f
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=16872 size=40 all=2694 active=2282 piece=▁of
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=10287 size=60 all=3675 active=3263 piece=ay
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=7598 size=80 all=4552 active=4140 piece=ke
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=5919 size=100 all=5437 active=5025 piece=ER
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=5862 min_freq=448
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=5014 size=120 all=6042 active=1567 piece=ver
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=4275 size=140 all=6935 active=2460 piece=ES
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3698 size=160 all=7807 active=3332 piece=OR
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=3125 size=180 all=8592 active=4117 piece=▁thee
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2669 size=200 all=9173 active=4698 piece=▁at
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=2645 min_freq=403
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2366 size=220 all=9925 active=1749 piece=ul
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=2128 size=240 all=10643 active=2467 piece=au
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1980 size=260 all=11269 active=3093 piece=▁can
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1828 size=280 all=11859 active=3683 piece=▁What
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1649 size=300 all=12315 active=4139 piece=um
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=1645 min_freq=353
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1571 size=320 all=12918 active=1501 piece=▁one
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1429 size=340 all=13253 active=1836 piece=▁ho
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1308 size=360 all=13677 active=2260 piece=pt
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1209 size=380 all=14090 active=2673 piece=TR
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1123 size=400 all=14602 active=3185 piece=ist
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=1121 min_freq=308
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=1054 size=420 all=15119 active=1424 piece=ose
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=990 size=440 all=15480 active=1785 piece=▁cha
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=940 size=460 all=15962 active=2267 piece=▁day
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=895 size=480 all=16519 active=2824 piece=▁AN
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=868 size=500 all=16830 active=3135 piece=INE
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=864 min_freq=270
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=815 size=520 all=17116 active=1277 piece=▁fear
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=785 size=540 all=17514 active=1675 piece=▁own
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=748 size=560 all=17740 active=1901 piece=man
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=712 size=580 all=18109 active=2270 piece=▁How
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=683 size=600 all=18530 active=2691 piece=▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=682 min_freq=243
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=653 size=620 all=18691 active=1161 piece=▁im
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=633 size=640 all=18990 active=1460 piece=▁stand
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=604 size=660 all=19096 active=1566 piece=So
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=580 size=680 all=19351 active=1821 piece=for
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=565 size=700 all=19724 active=2194 piece=ENT
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=565 min_freq=219
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=555 size=720 all=20101 active=1355 piece=eace
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=529 size=740 all=20254 active=1508 piece=▁Duke
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=515 size=760 all=20519 active=1773 piece=nto
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=496 size=780 all=20895 active=2149 piece=ier
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=483 size=800 all=21202 active=2456 piece=▁Thou
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=482 min_freq=193
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=464 size=820 all=21561 active=1420 piece=▁little
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=451 size=840 all=21836 active=1695 piece=its
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=440 size=860 all=22035 active=1894 piece=▁chi
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=430 size=880 all=22202 active=2061 piece=▁himself
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=415 size=900 all=22433 active=2292 piece=led
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=415 min_freq=180
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=406 size=920 all=22657 active=1292 piece=eds
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=396 size=940 all=22833 active=1468 piece=▁tongue
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=383 size=960 all=23114 active=1749 piece=ICK
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=377 size=980 all=23249 active=1884 piece=▁mean
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=367 size=1000 all=23383 active=2018 piece=His
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=367 min_freq=164
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=362 size=1020 all=23474 active=1260 piece=UTED
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=357 size=1040 all=23632 active=1418 piece=air
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=349 size=1060 all=23815 active=1601 piece=▁husband
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=339 size=1080 all=24018 active=1804 piece=▁Br
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=331 size=1100 all=24098 active=1884 piece=▁whom
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=331 min_freq=151
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=322 size=1120 all=24271 active=1378 piece=pect
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=312 size=1140 all=24454 active=1561 piece=▁state
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=305 size=1160 all=24635 active=1742 piece=▁shame
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=298 size=1180 all=24777 active=1884 piece=bs
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=293 size=1200 all=24962 active=2069 piece=▁happ
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=291 min_freq=136
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=284 size=1220 all=25166 active=1447 piece=▁Not
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=277 size=1240 all=25316 active=1597 piece=ener
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=272 size=1260 all=25439 active=1720 piece=pen
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=268 size=1280 all=25655 active=1936 piece=▁lay
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=264 size=1300 all=25900 active=2181 piece=▁CH
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=264 min_freq=125
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=260 size=1320 all=26147 active=1533 piece=▁swear
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=257 size=1340 all=26205 active=1591 piece=ats
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=250 size=1360 all=26414 active=1800 piece=ads
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=246 size=1380 all=26573 active=1959 piece=▁return
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=242 size=1400 all=26719 active=2105 piece=▁through
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=241 min_freq=115
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=236 size=1420 all=26914 active=1529 piece=ithe
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=233 size=1440 all=27032 active=1647 piece=▁itself
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=229 size=1460 all=27173 active=1788 piece=▁business
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=225 size=1480 all=27299 active=1914 piece=▁sight
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=220 size=1500 all=27459 active=2074 piece=▁proud
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=220 min_freq=106
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=215 size=1520 all=27600 active=1511 piece=PER
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=212 size=1540 all=27685 active=1596 piece=MAC
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=209 size=1560 all=27842 active=1753 piece=▁def
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=204 size=1580 all=27986 active=1897 piece=eon
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=201 size=1600 all=28102 active=2013 piece=▁cond
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=201 min_freq=99
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=198 size=1620 all=28192 active=1489 piece=Lear
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=195 size=1640 all=28330 active=1627 piece=aim
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=193 size=1660 all=28544 active=1841 piece=▁trust
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=190 size=1680 all=28707 active=2004 piece=THIS
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=188 size=1700 all=28792 active=2089 piece=▁worthy
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=187 min_freq=93
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=186 size=1720 all=28869 active=1517 piece=WARWICK
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=182 size=1740 all=28934 active=1582 piece=gue
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=181 size=1760 all=28957 active=1605 piece=NLY
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=181 size=1780 all=28966 active=1614 piece=▁INC
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=181 size=1800 all=28987 active=1635 piece=▁USED
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=181 min_freq=88
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=181 size=1820 all=28985 active=1448 piece=PROVIDED
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=181 size=1840 all=28968 active=1431 piece=DISTRIBUTED
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=179 size=1860 all=29000 active=1463 piece=▁content
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=177 size=1880 all=29147 active=1610 piece=▁certain
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=174 size=1900 all=29243 active=1706 piece=BUR
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=174 min_freq=84
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=172 size=1920 all=29336 active=1548 piece=▁report
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=170 size=1940 all=29388 active=1600 piece=Though
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=167 size=1960 all=29538 active=1750 piece=▁ten
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=165 size=1980 all=29598 active=1810 piece=▁est
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=163 size=2000 all=29701 active=1913 piece=esh
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=163 min_freq=80
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=161 size=2020 all=29825 active=1598 piece=ries
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=159 size=2040 all=29916 active=1689 piece=▁watch
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=157 size=2060 all=30093 active=1866 piece=▁patience
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=154 size=2080 all=30164 active=1937 piece=PANDARUS
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=152 size=2100 all=30289 active=2062 piece=▁enter
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=152 min_freq=76
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=150 size=2120 all=30393 active=1617 piece=▁att
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=148 size=2140 all=30467 active=1691 piece=▁behold
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=146 size=2160 all=30555 active=1779 piece=▁servant
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=143 size=2180 all=30617 active=1841 piece=ISTOL
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=141 size=2200 all=30788 active=2012 piece=▁feel
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=141 min_freq=72
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=139 size=2220 all=30861 active=1611 piece=▁whe
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=138 size=2240 all=30929 active=1679 piece=▁EDWARD
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=136 size=2260 all=31138 active=1888 piece=ona
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=135 size=2280 all=31224 active=1974 piece=ICINIUS
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=133 size=2300 all=31362 active=2112 piece=▁Alas
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=133 min_freq=68
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=131 size=2320 all=31471 active=1678 piece=▁presently
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=129 size=2340 all=31571 active=1778 piece=Leon
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=128 size=2360 all=31721 active=1928 piece=▁mot
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=127 size=2380 all=31788 active=1995 piece=PISTOL
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=126 size=2400 all=31828 active=2035 piece=Should
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=126 min_freq=65
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=124 size=2420 all=31933 active=1697 piece=Against
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=122 size=2440 all=32031 active=1795 piece=pes
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=121 size=2460 all=32154 active=1918 piece=▁understand
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=119 size=2480 all=32267 active=2031 piece=▁abs
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=118 size=2500 all=32331 active=2095 piece=ffect
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=118 min_freq=62
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=117 size=2520 all=32379 active=1656 piece=asters
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=116 size=2540 all=32517 active=1794 piece=▁fam
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=114 size=2560 all=32581 active=1858 piece=▁lim
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=113 size=2580 all=32731 active=2008 piece=▁case
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=112 size=2600 all=32860 active=2137 piece=LUCIO
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=112 min_freq=59
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=110 size=2620 all=32955 active=1738 piece=sp
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=110 size=2640 all=33119 active=1902 piece=▁second
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=108 size=2660 all=33199 active=1982 piece=ety
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=107 size=2680 all=33308 active=2091 piece=▁MUR
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=106 size=2700 all=33402 active=2185 piece=▁shi
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=106 min_freq=57
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=105 size=2720 all=33499 active=1759 piece=▁Per
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=104 size=2740 all=33614 active=1874 piece=elcome
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=103 size=2760 all=33667 active=1927 piece=▁noise
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=102 size=2780 all=33761 active=2021 piece=▁seems
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=101 size=2800 all=33862 active=2122 piece=▁bears
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=101 min_freq=54
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=100 size=2820 all=33913 active=1745 piece=▁forgot
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=99 size=2840 all=33967 active=1799 piece=▁dangerous
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=98 size=2860 all=34013 active=1845 piece=▁rememb
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=97 size=2880 all=34105 active=1937 piece=▁valour
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=96 size=2900 all=34165 active=1997 piece=▁wisdom
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=96 min_freq=53
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=95 size=2920 all=34280 active=1823 piece=▁offence
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=94 size=2940 all=34393 active=1936 piece=▁faults
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=92 size=2960 all=34560 active=2103 piece=ume
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=91 size=2980 all=34680 active=2223 piece=▁See
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=90 size=3000 all=34761 active=2304 piece=ANNE
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=90 min_freq=50
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=90 size=3020 all=34816 active=1794 piece=▁quickly
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=89 size=3040 all=34931 active=1909 piece=▁taken
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=88 size=3060 all=34993 active=1971 piece=▁Gree
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=87 size=3080 all=35070 active=2048 piece=▁sus
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=86 size=3100 all=35112 active=2090 piece=▁army
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=86 min_freq=49
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=85 size=3120 all=35197 active=1841 piece=▁Cor
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=85 size=3140 all=35243 active=1887 piece=OUCHSTONE
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=84 size=3160 all=35353 active=1997 piece=▁Suff
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=83 size=3180 all=35399 active=2043 piece=Scene
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=82 size=3200 all=35501 active=2145 piece=rate
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=82 min_freq=47
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=81 size=3220 all=35559 active=1819 piece=erc
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=81 size=3240 all=35664 active=1924 piece=▁wealth
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=80 size=3260 all=35706 active=1966 piece=▁drawn
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=79 size=3280 all=35760 active=2020 piece=▁Val
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=79 size=3300 all=35802 active=2062 piece=▁street
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=79 min_freq=45
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=78 size=3320 all=35865 active=1854 piece=ISANIO
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=77 size=3340 all=35934 active=1923 piece=CONST
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=76 size=3360 all=35966 active=1955 piece=IEL
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=76 size=3380 all=36110 active=2099 piece=▁monst
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=75 size=3400 all=36185 active=2174 piece=woman
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=75 min_freq=43
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=74 size=3420 all=36222 active=1841 piece=INC
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=74 size=3440 all=36317 active=1936 piece=▁Before
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=73 size=3460 all=36355 active=1974 piece=UTOLY
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=72 size=3480 all=36366 active=1985 piece=1.
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=72 size=3500 all=36466 active=2085 piece=▁drunk
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=72 min_freq=41
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=71 size=3520 all=36469 active=1826 piece=ts
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=71 size=3540 all=36647 active=2004 piece=▁dism
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=70 size=3560 all=36709 active=2066 piece=▁fig
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=69 size=3580 all=36757 active=2114 piece=2.
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=69 size=3600 all=36831 active=2188 piece=▁song
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=69 min_freq=40
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=69 size=3620 all=36846 active=1856 piece=▁shouldst
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=68 size=3640 all=36964 active=1974 piece=▁neck
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=68 size=3660 all=36970 active=1980 piece=▁brothers
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=67 size=3680 all=37084 active=2094 piece=▁rans
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=67 size=3700 all=37094 active=2104 piece=▁Bolingbroke
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=66 min_freq=39
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=66 size=3720 all=37230 active=1991 piece=▁meat
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=65 size=3740 all=37226 active=1987 piece=fl
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=65 size=3760 all=37288 active=2049 piece=▁wond
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=64 size=3780 all=37299 active=2060 piece=EF
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=64 size=3800 all=37401 active=2162 piece=▁knee
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=64 min_freq=37
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=64 size=3820 all=37411 active=1881 piece=▁reasons
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=63 size=3840 all=37561 active=2031 piece=▁foe
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=63 size=3860 all=37602 active=2072 piece=▁London
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=62 size=3880 all=37637 active=2107 piece=thi
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=62 size=3900 all=37678 active=2148 piece=▁ransom
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=62 min_freq=36
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=61 size=3920 all=37742 active=1946 piece=▁fle
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=61 size=3940 all=37797 active=2001 piece=▁weigh
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=60 size=3960 all=37856 active=2060 piece=▁Qu
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=60 size=3980 all=37951 active=2155 piece=itude
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=60 size=4000 all=37987 active=2191 piece=▁anger
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=60 min_freq=35
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=60 size=4020 all=37986 active=1898 piece=▁breathe
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=59 size=4040 all=38049 active=1961 piece=ience
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=59 size=4060 all=38073 active=1985 piece=▁lawful
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=58 size=4080 all=38145 active=2057 piece=▁cat
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=58 size=4100 all=38200 active=2112 piece=▁Tybalt
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=58 min_freq=34
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=57 size=4120 all=38193 active=1903 piece=TOM
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=57 size=4140 all=38308 active=2018 piece=▁dece
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=57 size=4160 all=38309 active=2019 piece=▁forgive
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=56 size=4180 all=38389 active=2099 piece=▁SH
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=56 size=4200 all=38438 active=2148 piece=ators
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=56 min_freq=33
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=56 size=4220 all=38498 active=1973 piece=▁fancy
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=55 size=4240 all=38510 active=1985 piece=ald
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=55 size=4260 all=38586 active=2061 piece=▁shut
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=55 size=4280 all=38601 active=2076 piece=▁outward
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=54 size=4300 all=38681 active=2156 piece=▁Don
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=54 min_freq=32
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=54 size=4320 all=38715 active=1967 piece=utenant
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=53 size=4340 all=38715 active=1967 piece=Bl
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=53 size=4360 all=38890 active=2142 piece=▁eng
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=53 size=4380 all=38967 active=2219 piece=▁bride
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=53 size=4400 all=38974 active=2226 piece=▁traitors
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=53 min_freq=31
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=52 size=4420 all=39069 active=2044 piece=▁tid
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=52 size=4440 all=39097 active=2072 piece=▁faces
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=52 size=4460 all=39097 active=2072 piece=SATURNINUS
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=51 size=4480 all=39239 active=2214 piece=▁dig
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=51 size=4500 all=39315 active=2290 piece=▁benef
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=51 min_freq=30
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=51 size=4520 all=39337 active=1983 piece=▁seeming
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=50 size=4540 all=39435 active=2081 piece=Call
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=50 size=4560 all=39562 active=2208 piece=▁perj
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=50 size=4580 all=39576 active=2222 piece=▁credit
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=49 size=4600 all=39613 active=2259 piece=soe
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=49 min_freq=29
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=49 size=4620 all=39700 active=2057 piece=ating
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=49 size=4640 all=39744 active=2101 piece=▁habit
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=49 size=4660 all=39753 active=2110 piece=▁greatest
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=48 size=4680 all=39908 active=2265 piece=know
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=48 size=4700 all=39958 active=2315 piece=▁winds
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=48 min_freq=28
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=48 size=4720 all=39965 active=2005 piece=▁Protector
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=47 size=4740 all=40051 active=2091 piece=utes
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=47 size=4760 all=40107 active=2147 piece=▁fiery
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=47 size=4780 all=40104 active=2144 piece=▁violent
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=46 size=4800 all=40156 active=2196 piece=hest
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=46 min_freq=27
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=46 size=4820 all=40233 active=2077 piece=▁Ital
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=46 size=4840 all=40257 active=2101 piece=▁window
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=45 size=4860 all=40282 active=2126 piece=fac
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=45 size=4880 all=40346 active=2190 piece=iliar
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=45 size=4900 all=40383 active=2227 piece=▁chide
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=45 min_freq=26
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=45 size=4920 all=40383 active=2020 piece=▁kinsman
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=44 size=4940 all=40431 active=2068 piece=IDOW
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=44 size=4960 all=40516 active=2153 piece=place
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=44 size=4980 all=40538 active=2175 piece=▁store
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=43 size=5000 all=40596 active=2233 piece=▁sy
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=43 min_freq=25
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=43 size=5020 all=40669 active=2097 piece=▁fant
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=43 size=5040 all=40684 active=2112 piece=▁tread
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=42 size=5060 all=40676 active=2104 piece=Ha
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=42 size=5080 all=40753 active=2181 piece=twill
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=42 size=5100 all=40794 active=2222 piece=▁elder
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=42 min_freq=25
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=42 size=5120 all=40805 active=2051 piece=▁farther
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=41 size=5140 all=40924 active=2170 piece=sequ
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=41 size=5160 all=40994 active=2240 piece=▁thie
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=41 size=5180 all=41004 active=2250 piece=▁island
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=40 size=5200 all=41022 active=2268 piece=Rem
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=40 min_freq=24
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=40 size=5220 all=41097 active=2116 piece=▁abus
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=40 size=5240 all=41115 active=2134 piece=▁Banquo
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=40 size=5260 all=41120 active=2139 piece=▁confound
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=39 size=5280 all=41149 active=2168 piece=WER
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=39 size=5300 all=41280 active=2299 piece=▁mom
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=39 min_freq=24
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=39 size=5320 all=41301 active=2084 piece=igious
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=39 size=5340 all=41309 active=2092 piece=▁hateful
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=38 size=5360 all=41305 active=2088 piece=jo
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=38 size=5380 all=41418 active=2201 piece=▁unw
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=38 size=5400 all=41466 active=2249 piece=engers
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=38 min_freq=23
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=38 size=5420 all=41516 active=2119 piece=▁market
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=37 size=5440 all=41520 active=2123 piece=Two
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=37 size=5460 all=41578 active=2181 piece=▁Pis
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=37 size=5480 all=41641 active=2244 piece=▁isle
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=37 size=5500 all=41663 active=2266 piece=▁shoot
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=37 min_freq=22
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=37 size=5520 all=41663 active=2082 piece=▁stroke
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=36 size=5540 all=41701 active=2120 piece=off
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=36 size=5560 all=41829 active=2248 piece=asted
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=36 size=5580 all=41874 active=2293 piece=should
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=36 size=5600 all=41883 active=2302 piece=▁consul
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=36 min_freq=22
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=36 size=5620 all=41884 active=2094 piece=▁dignity
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=35 size=5640 all=41883 active=2093 piece=Su
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=35 size=5660 all=41987 active=2197 piece=tled
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=35 size=5680 all=42059 active=2269 piece=▁pomp
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=35 size=5700 all=42079 active=2289 piece=▁SENIOR
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=35 min_freq=21
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=35 size=5720 all=42075 active=2100 piece=▁pleasant
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=34 size=5740 all=42085 active=2110 piece=POET
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=34 size=5760 all=42141 active=2166 piece=uries
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=34 size=5780 all=42166 active=2191 piece=upiter
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=34 size=5800 all=42169 active=2194 piece=▁fairer
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=34 min_freq=21
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=34 size=5820 all=42163 active=2103 piece=▁Methinks
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=33 size=5840 all=42192 active=2132 piece=iev
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=33 size=5860 all=42311 active=2251 piece=roop
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=33 size=5880 all=42359 active=2299 piece=▁mill
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=33 size=5900 all=42366 active=2306 piece=▁paint
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=33 min_freq=20
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=33 size=5920 all=42366 active=2117 piece=▁Capulet
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=32 size=5940 all=42359 active=2110 piece=Set
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=32 size=5960 all=42437 active=2188 piece=▁ach
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=32 size=5980 all=42514 active=2265 piece=▁Trib
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=32 size=6000 all=42528 active=2279 piece=▁desir
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=32 min_freq=20
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=32 size=6020 all=42528 active=2125 piece=▁charac
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=32 size=6040 all=42530 active=2127 piece=▁services
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=31 size=6060 all=42599 active=2196 piece=▁GR
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=31 size=6080 all=42679 active=2276 piece=cians
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=31 size=6100 all=42707 active=2304 piece=lender
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=31 min_freq=19
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=31 size=6120 all=42718 active=2145 piece=MOWBRAY
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=31 size=6140 all=42724 active=2151 piece=▁Orleans
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=31 size=6160 all=42713 active=2140 piece=▁conquest
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=30 size=6180 all=42747 active=2174 piece=sha
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=30 size=6200 all=42863 active=2290 piece=▁ago
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=30 min_freq=19
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=30 size=6220 all=42932 active=2213 piece=▁liqu
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=30 size=6240 all=42948 active=2229 piece=▁estim
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=30 size=6260 all=42945 active=2226 piece=▁resolv
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=30 size=6280 all=42932 active=2213 piece=▁Soldiers
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=29 size=6300 all=42957 active=2238 piece=hus
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=29 min_freq=18
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=29 size=6320 all=43006 active=2195 piece=▁nim
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=29 size=6340 all=43036 active=2225 piece=▁shun
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=29 size=6360 all=43057 active=2246 piece=▁scope
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=29 size=6380 all=43066 active=2255 piece=▁strive
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=29 size=6400 all=43056 active=2245 piece=▁conceive
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=29 min_freq=18
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=28 size=6420 all=43090 active=2186 piece=▁Du
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=28 size=6440 all=43188 active=2284 piece=reme
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=28 size=6460 all=43238 active=2334 piece=▁bank
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=28 size=6480 all=43261 active=2357 piece=▁Their
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=28 size=6500 all=43263 active=2359 piece=▁direct
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=28 min_freq=18
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=28 size=6520 all=43255 active=2153 piece=▁venture
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=27 size=6540 all=43245 active=2143 piece=kn
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=27 size=6560 all=43318 active=2216 piece=cell
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=27 size=6580 all=43382 active=2280 piece=▁tut
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=27 size=6600 all=43441 active=2339 piece=▁aunt
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=27 min_freq=17
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=27 size=6620 all=43476 active=2207 piece=▁event
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=27 size=6640 all=43476 active=2207 piece=▁eldest
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=27 size=6660 all=43467 active=2198 piece=▁cherish
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=27 size=6680 all=43455 active=2186 piece=▁Winchester
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=26 size=6700 all=43530 active=2261 piece=Dost
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=26 min_freq=17
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=26 size=6720 all=43598 active=2245 piece=▁net
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=26 size=6740 all=43642 active=2289 piece=▁hole
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=26 size=6760 all=43659 active=2306 piece=▁amend
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=26 size=6780 all=43669 active=2316 piece=▁strew
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=26 size=6800 all=43659 active=2306 piece=▁pursue
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=26 min_freq=17
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=26 size=6820 all=43662 active=2186 piece=▁restore
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=26 size=6840 all=43656 active=2180 piece=▁perchance
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=25 size=6860 all=43652 active=2176 piece=ala
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=25 size=6880 all=43730 active=2254 piece=bell
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=25 size=6900 all=43789 active=2313 piece=▁rev
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=25 min_freq=16
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=25 size=6920 all=43840 active=2233 piece=▁cove
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=25 size=6940 all=43857 active=2250 piece=▁clean
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=25 size=6960 all=43849 active=2242 piece=▁Imogen
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=25 size=6980 all=43839 active=2232 piece=▁fairies
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=25 size=7000 all=43832 active=2225 piece=▁grievous
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=25 min_freq=16
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=24 size=7020 all=43827 active=2187 piece=ym
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=24 size=7040 all=43911 active=2271 piece=eder
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=24 size=7060 all=43971 active=2331 piece=About
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=24 size=7080 all=44004 active=2364 piece=▁blue
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=24 size=7100 all=44015 active=2375 piece=ARTHUR
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=24 min_freq=16
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=24 size=7120 all=44020 active=2206 piece=▁frost
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=24 size=7140 all=44008 active=2194 piece=▁amends
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=24 size=7160 all=44009 active=2195 piece=▁Besides
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=24 size=7180 all=44000 active=2186 piece=DOLABELLA
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=23 size=7200 all=43992 active=2178 piece=PR
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=23 min_freq=15
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=23 size=7220 all=44085 active=2287 piece=▁Ep
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=23 size=7240 all=44164 active=2366 piece=xcom
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=23 size=7260 all=44192 active=2394 piece=antus
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=23 size=7280 all=44211 active=2413 piece=▁diet
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=23 size=7300 all=44233 active=2435 piece=repare
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=23 min_freq=15
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=23 size=7320 all=44243 active=2217 piece=▁vault
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=23 size=7340 all=44240 active=2214 piece=PANDULPH
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=23 size=7360 all=44230 active=2204 piece=▁poverty
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=23 size=7380 all=44217 active=2191 piece=▁injuries
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=22 size=7400 all=44201 active=2175 piece=Tr
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=22 min_freq=15
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=22 size=7420 all=44268 active=2272 piece=cock
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=22 size=7440 all=44300 active=2304 piece=▁dit
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=22 size=7460 all=44356 active=2360 piece=ranch
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=22 size=7480 all=44385 active=2389 piece=▁spee
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=22 size=7500 all=44393 active=2397 piece=▁bragg
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=22 min_freq=14
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=22 size=7520 all=44403 active=2226 piece=SILENCE
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=22 size=7540 all=44409 active=2232 piece=▁BERTRAM
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=22 size=7560 all=44406 active=2229 piece=▁sadness
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=22 size=7580 all=44388 active=2211 piece=▁character
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=21 size=7600 all=44392 active=2215 piece=Lay
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=21 min_freq=14
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=21 size=7620 all=44475 active=2302 piece=empl
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=21 size=7640 all=44544 active=2371 piece=▁wet
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=21 size=7660 all=44598 active=2425 piece=▁acts
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=21 size=7680 all=44610 active=2437 piece=friend
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=21 size=7700 all=44616 active=2443 piece=▁moves
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=21 min_freq=14
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=21 size=7720 all=44621 active=2236 piece=▁acknow
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=21 size=7740 all=44617 active=2232 piece=▁scurvy
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=21 size=7760 all=44615 active=2230 piece=▁drunken
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=21 size=7780 all=44606 active=2221 piece=▁fourteen
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=20 size=7800 all=44590 active=2205 piece=Aw
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=20 min_freq=14
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=20 size=7820 all=44645 active=2280 piece=Else
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=20 size=7840 all=44700 active=2335 piece=rick
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=20 size=7860 all=44755 active=2390 piece=▁axe
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=20 size=7880 all=44805 active=2440 piece=ullus
+bpe_model_trainer.cc(258) LOG(INFO) Added: freq=20 size=7900 all=44838 active=2473 piece=▁robe
+bpe_model_trainer.cc(167) LOG(INFO) Updating active symbols. max_freq=20 min_freq=13
+trainer_interface.cc(685) LOG(INFO) Saving model: /home/paperspace/home/spearecode/models/spearecode_bpe.model
+trainer_interface.cc(697) LOG(INFO) Saving vocabs: /home/paperspace/home/spearecode/models/spearecode_bpe.vocab
+... BPE TOKENIZATION:
+... UNIGRAM TOKENIZATION:
+... CHAR TOKENIZATION:
+... BPE TOKENIZATION:
+... UNIGRAM TOKENIZATION:
+... CHAR TOKENIZATION:
+... BPE TOKENIZATION:
+... UNIGRAM TOKENIZATION:
+... CHAR TOKENIZATION:
+... BPE TOKENIZATION:
+... UNIGRAM TOKENIZATION:
+... CHAR TOKENIZATION:
+... DATASET INFO:
+	NUMBER OF CHARS --> 5,419,872
+	NUMBER OF LINES --> 120,696
+... FIRST 1000 CHARACTERS:
+1
+  From fairest creatures we desire increase,
+  That thereby beauty's rose might never die,
+  But as the riper should by time decease,
+  His tender heir might bear his memory:
+  But thou contracted to thine own bright eyes,
+  Feed'st thy light's flame with self-substantial fuel,
+  Making a famine where abundance lies,
+  Thy self thy foe, to thy sweet self too cruel:
+  Thou that art now the world's fresh ornament,
+  And only herald to the gaudy spring,
+  Within thine own bud buriest thy content,
+  And tender churl mak'st waste in niggarding:
+    Pity the world, or else this glutton be,
+    To eat the world's due, by the grave and thee.
+2
+  When forty winters shall besiege thy brow,
+  And dig deep trenches in thy beauty's field,
+  Thy youth's proud livery so gazed on now,
+  Will be a tattered weed of small worth held:
+  Then being asked, where all thy beauty lies,
+  Where all the treasure of thy lusty days;
+  To say within thine own deep sunken eyes,
+  Were an all-eating shame, and
+... LAST 1000 CHARACTERS:
+hite and swoon at tragic shows;
+  'That not a heart which in his level came
+  Could scape the hail of his all-hurting aim,
+  Showing fair nature is both kind and tame;
+  And, veiled in them, did win whom he would maim.
+  Against the thing he sought he would exclaim;
+  When he most burned in heart-wished luxury,
+  He preached pure maid and praised cold chastity.
+  'Thus merely with the garment of a Grace
+  The naked and concealed fiend he covered,
+  That th' unexperient gave the tempter place,
+  Which, like a cherubin, above them hovered.
+  Who, young and simple, would not be so lovered?
+  Ay me, I fell, and yet do question make
+  What I should do again for such a sake.
+  'O, that infected moisture of his eye,
+  O, that false fire which in his cheek so glowed,
+  O, that forced thunder from his heart did fly,
+  O, that sad breath his spongy lungs bestowed,
+  O, all that borrowed motion, seeming owed,
+  Would yet again betray the fore-betrayed,
+  And new pervert a reconciled maid.'
+... RANDOM 1000 CHARACTERS:
+I seek (my weary travel's end)
+  Doth teach that case and that repose to say
+  'Thus far the miles are measured from thy friend.'
+  The beast that bears me, tired with my woe,
+  Plods dully on, to bear that weight in me,
+  As if by some instinct the wretch did know
+  His rider loved not speed being made from thee:
+  The bloody spur cannot provoke him on,
+  That sometimes anger thrusts into his hide,
+  Which heavily he answers with a groan,
+  More sharp to me than spurring to his side,
+    For that same groan doth put this in my mind,
+    My grief lies onward and my joy behind.
+51
+  Thus can my love excuse the slow offence,
+  Of my dull bearer, when from thee I speed,
+  From where thou art, why should I haste me thence?
+  Till I return of posting is no need.
+  O what excuse will my poor beast then find,
+  When swift extremity can seem but slow?
+  Then should I spur though mounted on the wind,
+  In winged speed no motion shall I know,
+  Then can no horse with my desire keep pace,
+... FIRST BASIC CHUNK ...
+  'O, that infected moisture of his eye,
+  O, that false fire which in his cheek so glowed,
+  O, that forced thunder from his heart did fly,
+  O, that sad breath his spongy lungs bestowed,
+  O, all that borrowed motion, seeming owed,
+  Would yet again betray the fore-betrayed,
+  And new pervert a reconciled maid.'
+  'Thus merely with the garment of a Grace
+  The naked and concealed fiend he covered,
+  That th' unexperient gave the tempter place,
+  Which, like a cherubin, above them hovered.
+  Who, young and simple, would not be so lovered?
+  Ay me, I fell, and yet do question make
+  What I should do again for such a sake.
+... FIRST RCTS CHUNK ...
+1
+  From fairest creatures we desire increase,
+  That thereby beauty's rose might never die,
+  But as the riper should by time decease,
+  His tender heir might bear his memory:
+  But thou contracted to thine own bright eyes,
+  Feed'st thy light's flame with self-substantial fuel,
+  Making a famine where abundance lies,
+  Thy self thy foe, to thy sweet self too cruel:
+  Thou that art now the world's fresh ornament,
+  And only herald to the gaudy spring,
+  Within thine own bud buriest thy content,
+  And tender churl mak'st waste in niggarding:
+    Pity the world, or else this glutton be,
+    To eat the world's due, by the grave and thee.
+... EXAMPLE RANDOM BASIC CHUNK ...
+  CARDINAL. That he should die is worthy policy;
+    To rid us from the fear we have of him.
+    This Gloucester should be quickly rid the world
+    And yet herein I judge mine own wit good-
+    Believe me, lords, were none more wise than I-
+    That for the beauty thinks it excellent.
+    With shining checker'd slough, doth sting a child
+    Or as the snake, roll'd in a flow'ring bank,
+    With sorrow snares relenting passengers;
+    Beguiles him as the mournful crocodile
+    Too full of foolish pity; and Gloucester's show
+    Henry my lord is cold in great affairs,
+  QUEEN. Free lords, cold snow melts with the sun's hot beams:
+... EXAMPLE RANDOM RCTS CHUNK ...
+BALTHAZAR, a merchant
+ANGELO, a goldsmith
+FIRST MERCHANT, friend to Antipholus of Syracuse
+SECOND MERCHANT, to whom Angelo is a debtor
+PINCH, a schoolmaster
+AEMILIA, wife to AEgeon; an abbess at Ephesus
+ADRIANA, wife to Antipholus of Ephesus
+LUCIANA, her sister
+LUCE, servant to Adriana
+A COURTEZAN
+Gaoler, Officers, Attendants
+SCENE:
+Ephesus
+  THIS ELECTRONIC VERSION OF THE COMPLETE WORKS OF WILLIAM
+SHAKESPEARE IS COPYRIGHT 1990-1993 BY WORLD LIBRARY, INC., AND IS
+PROVIDED BY PROJECT GUTENBERG ETEXT OF ILLINOIS BENEDICTINE COLLEGE
+WITH PERMISSION.  ELECTRONIC AND MACHINE READABLE COPIES MAY BE
+DISTRIBUTED SO LONG AS SUCH COPIES (1) ARE FOR YOUR OR OTHERS
+PERSONAL USE ONLY, AND (2) ARE NOT DISTRIBUTED OR USED
+COMMERCIALLY.  PROHIBITED COMMERCIAL DISTRIBUTION INCLUDES BY ANY
+SERVICE THAT CHARGES FOR DOWNLOAD TIME OR FOR MEMBERSHIP.>>
+THE COMEDY OF ERRORS
+ACT I. SCENE 1
+A hall in the DUKE'S palace
+Enter the DUKE OF EPHESUS, AEGEON, the Merchant
+of Syracuse, GAOLER, OFFICERS, and other ATTENDANTS
+... LAST BASIC CHUNK ...
+1
+  From fairest creatures we desire increase,
+  That thereby beauty's rose might never die,
+  But as the riper should by time decease,
+  His tender heir might bear his memory:
+  But thou contracted to thine own bright eyes,
+  Feed'st thy light's flame with self-substantial fuel,
+  Making a famine where abundance lies,
+  Thy self thy foe, to thy sweet self too cruel:
+  Thou that art now the world's fresh ornament,
+  And only herald to the gaudy spring,
+  Within thine own bud buriest thy content,
+  And tender churl mak'st waste in niggarding:
+    Pity the world, or else this glutton be,
+    To eat the world's due, by the grave and thee.
+... LAST RCTS CHUNK ...
+'That not a heart which in his level came
+  Could scape the hail of his all-hurting aim,
+  Showing fair nature is both kind and tame;
+  And, veiled in them, did win whom he would maim.
+  Against the thing he sought he would exclaim;
+  When he most burned in heart-wished luxury,
+  He preached pure maid and praised cold chastity.
+  'Thus merely with the garment of a Grace
+  The naked and concealed fiend he covered,
+  That th' unexperient gave the tempter place,
+  Which, like a cherubin, above them hovered.
+  Who, young and simple, would not be so lovered?
+  Ay me, I fell, and yet do question make
+  What I should do again for such a sake.
+  'O, that infected moisture of his eye,
+  O, that false fire which in his cheek so glowed,
+  O, that forced thunder from his heart did fly,
+  O, that sad breath his spongy lungs bestowed,
+  O, all that borrowed motion, seeming owed,
+  Would yet again betray the fore-betrayed,
+  And new pervert a reconciled maid.'
+wandb: Network error (ReadTimeout), entering retry loop.
+... BPE TOKENIZATION:
+... UNIGRAM TOKENIZATION:
+... CHAR TOKENIZATION:
+... Writing TFRecord 1 of 70 (100 per TFRecord)...
+... Writing TFRecord 2 of 70 (100 per TFRecord)...
+... Writing TFRecord 3 of 70 (100 per TFRecord)...
+... Writing TFRecord 4 of 70 (100 per TFRecord)...
+... Writing TFRecord 5 of 70 (100 per TFRecord)...
+... Writing TFRecord 6 of 70 (100 per TFRecord)...
+... Writing TFRecord 7 of 70 (100 per TFRecord)...
+... Writing TFRecord 8 of 70 (100 per TFRecord)...
+... Writing TFRecord 9 of 70 (100 per TFRecord)...
+... Writing TFRecord 10 of 70 (100 per TFRecord)...
+... Writing TFRecord 11 of 70 (100 per TFRecord)...
+... Writing TFRecord 12 of 70 (100 per TFRecord)...
+... Writing TFRecord 13 of 70 (100 per TFRecord)...
+... Writing TFRecord 14 of 70 (100 per TFRecord)...
+... Writing TFRecord 15 of 70 (100 per TFRecord)...
+... Writing TFRecord 16 of 70 (100 per TFRecord)...
+... Writing TFRecord 17 of 70 (100 per TFRecord)...
+... Writing TFRecord 18 of 70 (100 per TFRecord)...
+... Writing TFRecord 19 of 70 (100 per TFRecord)...
+... Writing TFRecord 20 of 70 (100 per TFRecord)...
+... Writing TFRecord 21 of 70 (100 per TFRecord)...
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15392.51it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13807.50it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14012.31it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14209.31it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14185.76it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14098.97it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14185.76it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14314.54it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15328.38it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14380.80it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14547.90it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14664.37it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13666.68it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13754.52it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14984.47it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13738.30it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13908.23it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13887.04it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13980.08it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14900.90it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14185.76it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 12826.62it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15717.24it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15574.26it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14058.33it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13336.84it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14065.88it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13907.30it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14475.60it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13783.45it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13865.01it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13881.53it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13721.67it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13239.18it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13812.96it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13923.93it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13602.41it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14000.61it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13692.56it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13925.31it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13881.53it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13712.25it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14179.53it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13920.69it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13952.18it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13683.62it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13379.39it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13230.41it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13329.21it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13400.33it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13759.94it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13439.84it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13574.24it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13554.50it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13891.18it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14032.47it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13811.14it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14142.23it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13703.29it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14111.78it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13867.76it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13998.28it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14160.86it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14318.94it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14489.60it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14055.04it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13888.88it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14504.13it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13943.83it/s]
+ 86%|█████████████████████████████████████████████████████████████▉          | 86/100 [00:00<00:00, 13939.95it/s]
+Writing TFRecords: 100%|█████████████████████████████████████████████████████████| 70/70 [00:00<00:00, 93.98it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13357.66it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13958.21it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13952.18it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14300.39it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14377.35it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14359.14it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13963.79it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13471.35it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14104.19it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13059.45it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14614.81it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14756.21it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13493.88it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15060.34it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14557.49it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13720.78it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14474.60it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14621.94it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14365.04it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14301.36it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14430.77it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14133.18it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14617.86it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14576.21it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14020.74it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14363.56it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14397.58it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14147.96it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13741.00it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13538.75it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13496.06it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14211.72it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13796.60it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13413.62it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13447.59it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13922.08it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13383.23it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14774.40it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14996.80it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 12994.31it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13725.72it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14362.09it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15223.78it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 12983.85it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14257.61it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14127.47it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13942.44it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15018.28it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14106.56it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13905.00it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14310.15it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 12958.98it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13593.16it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13582.15it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14248.41it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14196.32it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13869.59it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14020.27it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14197.77it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13797.05it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13947.54it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13429.08it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13752.27it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 12973.41it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13807.50it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13072.48it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 12944.98it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13137.99it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13277.74it/s]
+ 86%|█████████████████████████████████████████████████████████████▉          | 86/100 [00:00<00:00, 13589.14it/s]
+Writing TFRecords: 100%|█████████████████████████████████████████████████████████| 70/70 [00:00<00:00, 98.52it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 12826.23it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13934.10it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14220.87it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15879.70it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13883.83it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13286.15it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13826.62it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14413.42it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13534.82it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13983.81it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14024.96it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13750.01it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14397.58it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14338.52it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14120.81it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14158.94it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13679.16it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13276.90it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13573.80it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13238.34it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13209.57it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13599.33it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13499.10it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13675.15it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13948.47it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13945.68it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13661.34it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14002.02it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13864.55it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14017.46it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13749.11it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13624.95it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13522.16it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13562.39it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13129.36it/s]
+  0%|                                                                                    | 0/100 [00:00<?, ?it/s]
+... Writing TFRecord 22 of 70 (100 per TFRecord)...
+... Writing TFRecord 23 of 70 (100 per TFRecord)...
+... Writing TFRecord 24 of 70 (100 per TFRecord)...
+... Writing TFRecord 25 of 70 (100 per TFRecord)...
+... Writing TFRecord 26 of 70 (100 per TFRecord)...
+... Writing TFRecord 27 of 70 (100 per TFRecord)...
+... Writing TFRecord 28 of 70 (100 per TFRecord)...
+... Writing TFRecord 29 of 70 (100 per TFRecord)...
+... Writing TFRecord 30 of 70 (100 per TFRecord)...
+... Writing TFRecord 31 of 70 (100 per TFRecord)...
+... Writing TFRecord 32 of 70 (100 per TFRecord)...
+... Writing TFRecord 33 of 70 (100 per TFRecord)...
+... Writing TFRecord 34 of 70 (100 per TFRecord)...
+... Writing TFRecord 35 of 70 (100 per TFRecord)...
+... Writing TFRecord 36 of 70 (100 per TFRecord)...
+... Writing TFRecord 37 of 70 (100 per TFRecord)...
+... Writing TFRecord 38 of 70 (100 per TFRecord)...
+... Writing TFRecord 39 of 70 (100 per TFRecord)...
+... Writing TFRecord 40 of 70 (100 per TFRecord)...
+... Writing TFRecord 41 of 70 (100 per TFRecord)...
+... Writing TFRecord 42 of 70 (100 per TFRecord)...
+... Writing TFRecord 43 of 70 (100 per TFRecord)...
+... Writing TFRecord 44 of 70 (100 per TFRecord)...
+... Writing TFRecord 45 of 70 (100 per TFRecord)...
+... Writing TFRecord 46 of 70 (100 per TFRecord)...
+... Writing TFRecord 47 of 70 (100 per TFRecord)...
+... Writing TFRecord 48 of 70 (100 per TFRecord)...
+... Writing TFRecord 49 of 70 (100 per TFRecord)...
+... Writing TFRecord 50 of 70 (100 per TFRecord)...
+... Writing TFRecord 51 of 70 (100 per TFRecord)...
+... Writing TFRecord 52 of 70 (100 per TFRecord)...
+... Writing TFRecord 53 of 70 (100 per TFRecord)...
+... Writing TFRecord 54 of 70 (100 per TFRecord)...
+... Writing TFRecord 55 of 70 (100 per TFRecord)...
+... Writing TFRecord 56 of 70 (100 per TFRecord)...
+... Writing TFRecord 57 of 70 (100 per TFRecord)...
+... Writing TFRecord 58 of 70 (100 per TFRecord)...
+... Writing TFRecord 59 of 70 (100 per TFRecord)...
+... Writing TFRecord 60 of 70 (100 per TFRecord)...
+... Writing TFRecord 61 of 70 (100 per TFRecord)...
+... Writing TFRecord 62 of 70 (100 per TFRecord)...
+... Writing TFRecord 63 of 70 (100 per TFRecord)...
+... Writing TFRecord 64 of 70 (100 per TFRecord)...
+... Writing TFRecord 65 of 70 (100 per TFRecord)...
+... Writing TFRecord 66 of 70 (100 per TFRecord)...
+... Writing TFRecord 67 of 70 (100 per TFRecord)...
+... Writing TFRecord 68 of 70 (100 per TFRecord)...
+... Writing TFRecord 69 of 70 (100 per TFRecord)...
+... Writing TFRecord 70 of 70 (100 per TFRecord)...
+... Writing TFRecord 1 of 70 (100 per TFRecord)...
+... Writing TFRecord 2 of 70 (100 per TFRecord)...
+... Writing TFRecord 3 of 70 (100 per TFRecord)...
+... Writing TFRecord 4 of 70 (100 per TFRecord)...
+... Writing TFRecord 5 of 70 (100 per TFRecord)...
+... Writing TFRecord 6 of 70 (100 per TFRecord)...
+... Writing TFRecord 7 of 70 (100 per TFRecord)...
+... Writing TFRecord 8 of 70 (100 per TFRecord)...
+... Writing TFRecord 9 of 70 (100 per TFRecord)...
+... Writing TFRecord 10 of 70 (100 per TFRecord)...
+... Writing TFRecord 11 of 70 (100 per TFRecord)...
+... Writing TFRecord 12 of 70 (100 per TFRecord)...
+... Writing TFRecord 13 of 70 (100 per TFRecord)...
+... Writing TFRecord 14 of 70 (100 per TFRecord)...
+... Writing TFRecord 15 of 70 (100 per TFRecord)...
+... Writing TFRecord 16 of 70 (100 per TFRecord)...
+... Writing TFRecord 17 of 70 (100 per TFRecord)...
+... Writing TFRecord 18 of 70 (100 per TFRecord)...
+... Writing TFRecord 19 of 70 (100 per TFRecord)...
+... Writing TFRecord 20 of 70 (100 per TFRecord)...
+... Writing TFRecord 21 of 70 (100 per TFRecord)...
+... Writing TFRecord 22 of 70 (100 per TFRecord)...
+... Writing TFRecord 23 of 70 (100 per TFRecord)...
+... Writing TFRecord 24 of 70 (100 per TFRecord)...
+... Writing TFRecord 25 of 70 (100 per TFRecord)...
+... Writing TFRecord 26 of 70 (100 per TFRecord)...
+... Writing TFRecord 27 of 70 (100 per TFRecord)...
+... Writing TFRecord 28 of 70 (100 per TFRecord)...
+... Writing TFRecord 29 of 70 (100 per TFRecord)...
+... Writing TFRecord 30 of 70 (100 per TFRecord)...
+... Writing TFRecord 31 of 70 (100 per TFRecord)...
+... Writing TFRecord 32 of 70 (100 per TFRecord)...
+... Writing TFRecord 33 of 70 (100 per TFRecord)...
+... Writing TFRecord 34 of 70 (100 per TFRecord)...
+... Writing TFRecord 35 of 70 (100 per TFRecord)...
+... Writing TFRecord 36 of 70 (100 per TFRecord)...
+... Writing TFRecord 37 of 70 (100 per TFRecord)...
+... Writing TFRecord 38 of 70 (100 per TFRecord)...
+... Writing TFRecord 39 of 70 (100 per TFRecord)...
+... Writing TFRecord 40 of 70 (100 per TFRecord)...
+... Writing TFRecord 41 of 70 (100 per TFRecord)...
+... Writing TFRecord 42 of 70 (100 per TFRecord)...
+... Writing TFRecord 43 of 70 (100 per TFRecord)...
+... Writing TFRecord 44 of 70 (100 per TFRecord)...
+... Writing TFRecord 45 of 70 (100 per TFRecord)...
+... Writing TFRecord 46 of 70 (100 per TFRecord)...
+... Writing TFRecord 47 of 70 (100 per TFRecord)...
+... Writing TFRecord 48 of 70 (100 per TFRecord)...
+... Writing TFRecord 49 of 70 (100 per TFRecord)...
+... Writing TFRecord 50 of 70 (100 per TFRecord)...
+... Writing TFRecord 51 of 70 (100 per TFRecord)...
+... Writing TFRecord 52 of 70 (100 per TFRecord)...
+... Writing TFRecord 53 of 70 (100 per TFRecord)...
+... Writing TFRecord 54 of 70 (100 per TFRecord)...
+... Writing TFRecord 55 of 70 (100 per TFRecord)...
+... Writing TFRecord 56 of 70 (100 per TFRecord)...
+... Writing TFRecord 57 of 70 (100 per TFRecord)...
+... Writing TFRecord 58 of 70 (100 per TFRecord)...
+... Writing TFRecord 59 of 70 (100 per TFRecord)...
+... Writing TFRecord 60 of 70 (100 per TFRecord)...
+... Writing TFRecord 61 of 70 (100 per TFRecord)...
+... Writing TFRecord 62 of 70 (100 per TFRecord)...
+... Writing TFRecord 63 of 70 (100 per TFRecord)...
+... Writing TFRecord 64 of 70 (100 per TFRecord)...
+... Writing TFRecord 65 of 70 (100 per TFRecord)...
+... Writing TFRecord 66 of 70 (100 per TFRecord)...
+... Writing TFRecord 67 of 70 (100 per TFRecord)...
+... Writing TFRecord 68 of 70 (100 per TFRecord)...
+... Writing TFRecord 69 of 70 (100 per TFRecord)...
+... Writing TFRecord 70 of 70 (100 per TFRecord)...
+... Writing TFRecord 1 of 78 (100 per TFRecord)...
+... Writing TFRecord 2 of 78 (100 per TFRecord)...
+... Writing TFRecord 3 of 78 (100 per TFRecord)...
+... Writing TFRecord 4 of 78 (100 per TFRecord)...
+... Writing TFRecord 5 of 78 (100 per TFRecord)...
+... Writing TFRecord 6 of 78 (100 per TFRecord)...
+... Writing TFRecord 7 of 78 (100 per TFRecord)...
+... Writing TFRecord 8 of 78 (100 per TFRecord)...
+... Writing TFRecord 9 of 78 (100 per TFRecord)...
+... Writing TFRecord 10 of 78 (100 per TFRecord)...
+... Writing TFRecord 11 of 78 (100 per TFRecord)...
+... Writing TFRecord 12 of 78 (100 per TFRecord)...
+... Writing TFRecord 13 of 78 (100 per TFRecord)...
+... Writing TFRecord 14 of 78 (100 per TFRecord)...
+... Writing TFRecord 15 of 78 (100 per TFRecord)...
+... Writing TFRecord 16 of 78 (100 per TFRecord)...
+... Writing TFRecord 17 of 78 (100 per TFRecord)...
+... Writing TFRecord 18 of 78 (100 per TFRecord)...
+... Writing TFRecord 19 of 78 (100 per TFRecord)...
+... Writing TFRecord 20 of 78 (100 per TFRecord)...
+... Writing TFRecord 21 of 78 (100 per TFRecord)...
+... Writing TFRecord 22 of 78 (100 per TFRecord)...
+... Writing TFRecord 23 of 78 (100 per TFRecord)...
+... Writing TFRecord 24 of 78 (100 per TFRecord)...
+... Writing TFRecord 25 of 78 (100 per TFRecord)...
+... Writing TFRecord 26 of 78 (100 per TFRecord)...
+... Writing TFRecord 27 of 78 (100 per TFRecord)...
+... Writing TFRecord 28 of 78 (100 per TFRecord)...
+... Writing TFRecord 29 of 78 (100 per TFRecord)...
+... Writing TFRecord 30 of 78 (100 per TFRecord)...
+... Writing TFRecord 31 of 78 (100 per TFRecord)...
+... Writing TFRecord 32 of 78 (100 per TFRecord)...
+... Writing TFRecord 33 of 78 (100 per TFRecord)...
+... Writing TFRecord 34 of 78 (100 per TFRecord)...
+... Writing TFRecord 35 of 78 (100 per TFRecord)...
+... Writing TFRecord 36 of 78 (100 per TFRecord)...
+... Writing TFRecord 37 of 78 (100 per TFRecord)...
+... Writing TFRecord 38 of 78 (100 per TFRecord)...
+... Writing TFRecord 39 of 78 (100 per TFRecord)...
+... Writing TFRecord 40 of 78 (100 per TFRecord)...
+... Writing TFRecord 41 of 78 (100 per TFRecord)...
+... Writing TFRecord 42 of 78 (100 per TFRecord)...
+... Writing TFRecord 43 of 78 (100 per TFRecord)...
+... Writing TFRecord 44 of 78 (100 per TFRecord)...
+... Writing TFRecord 45 of 78 (100 per TFRecord)...
+... Writing TFRecord 46 of 78 (100 per TFRecord)...
+... Writing TFRecord 47 of 78 (100 per TFRecord)...
+... Writing TFRecord 48 of 78 (100 per TFRecord)...
+... Writing TFRecord 49 of 78 (100 per TFRecord)...
+... Writing TFRecord 50 of 78 (100 per TFRecord)...
+... Writing TFRecord 51 of 78 (100 per TFRecord)...
+... Writing TFRecord 52 of 78 (100 per TFRecord)...
+... Writing TFRecord 53 of 78 (100 per TFRecord)...
+... Writing TFRecord 54 of 78 (100 per TFRecord)...
+... Writing TFRecord 55 of 78 (100 per TFRecord)...
+... Writing TFRecord 56 of 78 (100 per TFRecord)...
+... Writing TFRecord 57 of 78 (100 per TFRecord)...
+... Writing TFRecord 58 of 78 (100 per TFRecord)...
+... Writing TFRecord 59 of 78 (100 per TFRecord)...
+... Writing TFRecord 60 of 78 (100 per TFRecord)...
+... Writing TFRecord 61 of 78 (100 per TFRecord)...
+... Writing TFRecord 62 of 78 (100 per TFRecord)...
+... Writing TFRecord 63 of 78 (100 per TFRecord)...
+... Writing TFRecord 64 of 78 (100 per TFRecord)...
+... Writing TFRecord 65 of 78 (100 per TFRecord)...
+... Writing TFRecord 66 of 78 (100 per TFRecord)...
+... Writing TFRecord 67 of 78 (100 per TFRecord)...
+... Writing TFRecord 68 of 78 (100 per TFRecord)...
+... Writing TFRecord 69 of 78 (100 per TFRecord)...
+... Writing TFRecord 70 of 78 (100 per TFRecord)...
+... Writing TFRecord 71 of 78 (100 per TFRecord)...
+... Writing TFRecord 72 of 78 (100 per TFRecord)...
+... Writing TFRecord 73 of 78 (100 per TFRecord)...
+... Writing TFRecord 74 of 78 (100 per TFRecord)...
+... Writing TFRecord 75 of 78 (100 per TFRecord)...
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 12956.58it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13171.41it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14284.32it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13633.36it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13732.01it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14112.73it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14275.08it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 12682.73it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13095.33it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14430.77it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14884.50it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13858.14it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14228.59it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13580.39it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13967.05it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14263.91it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14149.39it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 12157.76it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13736.50it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13806.14it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14126.52it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13873.72it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14359.14it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14190.56it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14175.21it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14300.39it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13193.37it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14356.68it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14227.63it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14331.66it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14381.79it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 11494.39it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14069.65it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13289.94it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14278.48it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15345.76it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15636.39it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14464.61it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14345.39it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14110.36it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13486.07it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13941.98it/s]
+ 70%|██████████████████████████████████████████████████▍                     | 70/100 [00:00<00:00, 12633.45it/s]
+Writing TFRecords: 100%|█████████████████████████████████████████████████████████| 78/78 [00:00<00:00, 96.63it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13675.59it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13869.14it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13652.44it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14151.30it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14951.89it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14366.02it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15002.70it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15700.77it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14473.10it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13787.53it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13439.84it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14174.73it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13881.07it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14200.65it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14123.66it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14089.98it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14606.16it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14796.29it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14516.18it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14042.33it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14015.59it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13926.24it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 12138.40it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14260.03it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14373.90it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13696.13it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13248.80it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14417.38it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15250.91it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14740.65it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15022.58it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14262.94it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13981.95it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14141.28it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13519.11it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13241.69it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14514.17it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13903.16it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13971.70it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14405.99it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14336.56it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14389.19it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14218.46it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14142.23it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14322.36it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14316.01it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15306.00it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14037.63it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14366.02it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14033.40it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14749.98it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 15377.27it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14667.45it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14494.61it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14677.20it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14552.94it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13021.74it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14150.82it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14839.21it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14239.70it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14665.91it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14593.45it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14147.96it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14844.99it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14423.82it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13955.89it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13618.31it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13579.51it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13286.57it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13676.93it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14462.62it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14069.65it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14097.08it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14832.39it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 13540.06it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14471.60it/s]
+100%|███████████████████████████████████████████████████████████████████████| 100/100 [00:00<00:00, 14438.72it/s]
+ 70%|██████████████████████████████████████████████████▍                     | 70/100 [00:00<00:00, 14141.28it/s]
+Writing TFRecords: 100%|████████████████████████████████████████████████████████| 78/78 [00:00<00:00, 101.12it/s]
+... Writing TFRecord 77 of 78 (100 per TFRecord)...
+... Writing TFRecord 78 of 78 (100 per TFRecord)...
+... Writing TFRecord 1 of 78 (100 per TFRecord)...
+... Writing TFRecord 2 of 78 (100 per TFRecord)...
+... Writing TFRecord 3 of 78 (100 per TFRecord)...
+... Writing TFRecord 4 of 78 (100 per TFRecord)...
+... Writing TFRecord 5 of 78 (100 per TFRecord)...
+... Writing TFRecord 6 of 78 (100 per TFRecord)...
+... Writing TFRecord 7 of 78 (100 per TFRecord)...
+... Writing TFRecord 8 of 78 (100 per TFRecord)...
+... Writing TFRecord 9 of 78 (100 per TFRecord)...
+... Writing TFRecord 10 of 78 (100 per TFRecord)...
+... Writing TFRecord 11 of 78 (100 per TFRecord)...
+... Writing TFRecord 12 of 78 (100 per TFRecord)...
+... Writing TFRecord 13 of 78 (100 per TFRecord)...
+... Writing TFRecord 14 of 78 (100 per TFRecord)...
+... Writing TFRecord 15 of 78 (100 per TFRecord)...
+... Writing TFRecord 16 of 78 (100 per TFRecord)...
+... Writing TFRecord 17 of 78 (100 per TFRecord)...
+... Writing TFRecord 18 of 78 (100 per TFRecord)...
+... Writing TFRecord 19 of 78 (100 per TFRecord)...
+... Writing TFRecord 20 of 78 (100 per TFRecord)...
+... Writing TFRecord 21 of 78 (100 per TFRecord)...
+... Writing TFRecord 22 of 78 (100 per TFRecord)...
+... Writing TFRecord 23 of 78 (100 per TFRecord)...
+... Writing TFRecord 24 of 78 (100 per TFRecord)...
+... Writing TFRecord 25 of 78 (100 per TFRecord)...
+... Writing TFRecord 26 of 78 (100 per TFRecord)...
+... Writing TFRecord 27 of 78 (100 per TFRecord)...
+... Writing TFRecord 28 of 78 (100 per TFRecord)...
+... Writing TFRecord 29 of 78 (100 per TFRecord)...
+... Writing TFRecord 30 of 78 (100 per TFRecord)...
+... Writing TFRecord 31 of 78 (100 per TFRecord)...
+... Writing TFRecord 32 of 78 (100 per TFRecord)...
+... Writing TFRecord 33 of 78 (100 per TFRecord)...
+... Writing TFRecord 34 of 78 (100 per TFRecord)...
+... Writing TFRecord 35 of 78 (100 per TFRecord)...
+... Writing TFRecord 36 of 78 (100 per TFRecord)...
+... Writing TFRecord 37 of 78 (100 per TFRecord)...
+... Writing TFRecord 38 of 78 (100 per TFRecord)...
+... Writing TFRecord 39 of 78 (100 per TFRecord)...
+... Writing TFRecord 40 of 78 (100 per TFRecord)...
+... Writing TFRecord 41 of 78 (100 per TFRecord)...
+... Writing TFRecord 42 of 78 (100 per TFRecord)...
+... Writing TFRecord 43 of 78 (100 per TFRecord)...
+... Writing TFRecord 44 of 78 (100 per TFRecord)...
+... Writing TFRecord 45 of 78 (100 per TFRecord)...
+... Writing TFRecord 46 of 78 (100 per TFRecord)...
+... Writing TFRecord 47 of 78 (100 per TFRecord)...
+... Writing TFRecord 48 of 78 (100 per TFRecord)...
+... Writing TFRecord 49 of 78 (100 per TFRecord)...
+... Writing TFRecord 50 of 78 (100 per TFRecord)...
+... Writing TFRecord 51 of 78 (100 per TFRecord)...
+... Writing TFRecord 52 of 78 (100 per TFRecord)...
+... Writing TFRecord 53 of 78 (100 per TFRecord)...
+... Writing TFRecord 54 of 78 (100 per TFRecord)...
+... Writing TFRecord 55 of 78 (100 per TFRecord)...
+... Writing TFRecord 56 of 78 (100 per TFRecord)...
+... Writing TFRecord 57 of 78 (100 per TFRecord)...
+... Writing TFRecord 58 of 78 (100 per TFRecord)...
+... Writing TFRecord 59 of 78 (100 per TFRecord)...
+... Writing TFRecord 60 of 78 (100 per TFRecord)...
+... Writing TFRecord 61 of 78 (100 per TFRecord)...
+... Writing TFRecord 62 of 78 (100 per TFRecord)...
+... Writing TFRecord 63 of 78 (100 per TFRecord)...
+... Writing TFRecord 64 of 78 (100 per TFRecord)...
+... Writing TFRecord 65 of 78 (100 per TFRecord)...
+... Writing TFRecord 66 of 78 (100 per TFRecord)...
+... Writing TFRecord 67 of 78 (100 per TFRecord)...
+... Writing TFRecord 68 of 78 (100 per TFRecord)...
+... Writing TFRecord 69 of 78 (100 per TFRecord)...
+... Writing TFRecord 70 of 78 (100 per TFRecord)...
+... Writing TFRecord 71 of 78 (100 per TFRecord)...
+... Writing TFRecord 72 of 78 (100 per TFRecord)...
+... Writing TFRecord 73 of 78 (100 per TFRecord)...
+... Writing TFRecord 74 of 78 (100 per TFRecord)...
+... Writing TFRecord 75 of 78 (100 per TFRecord)...
+... Writing TFRecord 76 of 78 (100 per TFRecord)...
+... Writing TFRecord 77 of 78 (100 per TFRecord)...
+... Writing TFRecord 78 of 78 (100 per TFRecord)...
+... FROM TFRECORD ...
+... FROM PANDAS DATAFRAME ...
+7985 1
+5
+6
+1248 From
+5256  fairest
+5833  creatures
+89  we
+1567  desire
+6674  increase
+7938 ,
+5
+6
+219 That
+7374  thereby
+1506  beauty
+7953 '
+7930 s
+3808  rose
+664  might
+495  never
+847  die
+7938 ,
+5
+6
+299 But
+124  as
+19  the
+528  ri
+583 per
+334  should
+196  by
+443  time
+4145  dece
+513 ase
+7938 ,
+5
+6
+1005 His
+2014  tender
+2353  heir
+664  might
+626  bear
+101  his
+4157  memory
+7981 :
+5
+6
+299 But
+107  thou
+661  cont
+106 ra
+2795 cted
+42  to
+884  thine
+545  own
+3332  bright
+610  eyes
+7938 ,
+5
+6
+7967 F
+1268 eed
+7953 '
+50 st
+160  thy
+1090  light
+7953 '
+7930 s
+7312  flame
+88  with
+1542  self
+7972 -
+7930 s
+1572 ub
+5676 stant
+1556 ial
+25  f
+7935 u
+275 el
+7938 ,
+5
+6
+6756 Making
+10  a
+2545  fam
+206 ine
+463  where
+433  ab
+1183 und
+339 ance
+1490  lies
+7938 ,
+5
+6
+1252 Thy
+1542  self
+160  thy
+3845  foe
+7938 ,
+42  to
+160  thy
+555  sweet
+1542  self
+366  too
+3016  cruel
+7981 :
+5
+6
+818 Thou
+79  that
+491  art
+267  now
+19  the
+607  world
+7953 '
+7930 s
+2975  fresh
+6326  orn
+2298 ament
+7938 ,
+5
+6
+100 And
+1391  only
+5118  herald
+42  to
+19  the
+55  g
+1189 aud
+7937 y
+3867  spring
+7938 ,
+5
+6
+2386 Within
+884  thine
+545  own
+4957  bud
+1196  bu
+102 ri
+151 est
+160  thy
+1865  content
+7938 ,
+5
+6
+100 And
+2014  tender
+2677  chur
+7933 l
+5968  mak
+7953 '
+50 st
+4516  waste
+58  in
+35  n
+320 ig
+7943 g
+198 ard
+51 ing
+7981 :
+5
+7
+7966 P
+361 ity
+19  the
+607  world
+7938 ,
+274  or
+956  else
+113  this
+769  gl
+67 ut
+4606 ton
+57  be
+7938 ,
+5
+7
+194 To
+2033  eat
+19  the
+607  world
+7953 '
+7930 s
+3564  due
+7938 ,
+196  by
+19  the
+1723  grave
+44  and
+185  thee
+7939 .
+7985 '1'
+5 '\n'
+6 '  '
+1248 'From'
+5256 ' fairest'
+5833 ' creatures'
+89 ' we'
+1567 ' desire'
+6674 ' increase'
+7938 ','
+5 '\n'
+6 '  '
+219 'That'
+7374 ' thereby'
+1506 ' beauty'
+7953 "'"
+7930 's'
+3808 ' rose'
+664 ' might'
+495 ' never'
+847 ' die'
+7938 ','
+5 '\n'
+6 '  '
+299 'But'
+124 ' as'
+19 ' the'
+528 ' ri'
+583 'per'
+334 ' should'
+196 ' by'
+443 ' time'
+4145 ' dece'
+513 'ase'
+7938 ','
+5 '\n'
+6 '  '
+1005 'His'
+2014 ' tender'
+2353 ' heir'
+664 ' might'
+626 ' bear'
+101 ' his'
+4157 ' memory'
+7981 ':'
+5 '\n'
+6 '  '
+299 'But'
+107 ' thou'
+661 ' cont'
+106 'ra'
+2795 'cted'
+42 ' to'
+884 ' thine'
+545 ' own'
+3332 ' bright'
+610 ' eyes'
+7938 ','
+5 '\n'
+6 '  '
+7967 'F'
+1268 'eed'
+7953 "'"
+50 'st'
+160 ' thy'
+1090 ' light'
+7953 "'"
+7930 's'
+7312 ' flame'
+88 ' with'
+1542 ' self'
+7972 '-'
+7930 's'
+1572 'ub'
+5676 'stant'
+1556 'ial'
+25 ' f'
+7935 'u'
+275 'el'
+7938 ','
+5 '\n'
+6 '  '
+6756 'Making'
+10 ' a'
+2545 ' fam'
+206 'ine'
+463 ' where'
+433 ' ab'
+1183 'und'
+339 'ance'
+1490 ' lies'
+7938 ','
+5 '\n'
+6 '  '
+1252 'Thy'
+1542 ' self'
+160 ' thy'
+3845 ' foe'
+7938 ','
+42 ' to'
+160 ' thy'
+555 ' sweet'
+1542 ' self'
+366 ' too'
+3016 ' cruel'
+7981 ':'
+5 '\n'
+6 '  '
+818 'Thou'
+79 ' that'
+491 ' art'
+267 ' now'
+19 ' the'
+607 ' world'
+7953 "'"
+7930 's'
+2975 ' fresh'
+6326 ' orn'
+2298 'ament'
+7938 ','
+5 '\n'
+6 '  '
+100 'And'
+1391 ' only'
+5118 ' herald'
+42 ' to'
+19 ' the'
+55 ' g'
+1189 'aud'
+7937 'y'
+3867 ' spring'
+7938 ','
+5 '\n'
+6 '  '
+2386 'Within'
+884 ' thine'
+545 ' own'
+4957 ' bud'
+1196 ' bu'
+102 'ri'
+151 'est'
+160 ' thy'
+1865 ' content'
+7938 ','
+5 '\n'
+6 '  '
+100 'And'
+2014 ' tender'
+2677 ' chur'
+7933 'l'
+5968 ' mak'
+7953 "'"
+50 'st'
+4516 ' waste'
+58 ' in'
+35 ' n'
+320 'ig'
+7943 'g'
+198 'ard'
+51 'ing'
+7981 ':'
+5 '\n'
+7 '    '
+7966 'P'
+361 'ity'
+19 ' the'
+607 ' world'
+7938 ','
+274 ' or'
+956 ' else'
+113 ' this'
+769 ' gl'
+67 'ut'
+4606 'ton'
+57 ' be'
+7938 ','
+5 '\n'
+7 '    '
+194 'To'
+2033 ' eat'
+19 ' the'
+607 ' world'
+7953 "'"
+7930 's'
+3564 ' due'
+7938 ','
+196 ' by'
+19 ' the'
+1723 ' grave'
+44 ' and'
+185 ' thee'
+7939 '.'
