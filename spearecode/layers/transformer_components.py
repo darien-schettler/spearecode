@@ -2,6 +2,7 @@ import numpy as np
 import tensorflow as tf
 from spearecode.layers.tf_workarounds import MultiHeadAttention
 
+
 def positional_encoding(length, depth):
     """Returns the positional encoding for a given length and depth.
 

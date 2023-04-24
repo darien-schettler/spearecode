@@ -2,27 +2,34 @@ import random
 import argparse
 import sentencepiece as spm
 
-def get_spm_assets(spm_model_path, return_processor=True):
+
+def get_spm_assets(spm_model_path, return_processor=True, special_nl_token=True, nl_token="[NL]"):
     """ Load the sentencepiece model that has already been trained and get tools
-    
+
     Args:
         spm_model_path (str): Path to the SPM trained tokenizer model
         return_processor (bool, optional): Whether to return the `SentencePieceProcessor` object
-        
+        special_nl_token (bool, optional): Whether to use a special token for newlines
+        nl_token (str, optional): The special token to use for newlines
+
     Returns:
         The encoder and decoder objects and, optionally, the `SentencePieceProcessor` object
     """
     # Coerce model path to match expected pattern
-    spm_model_path = spm_model_path+".model" if not spm_model_path.endswith(".model") else spm_model_path
-    
+    spm_model_path = spm_model_path + ".model" if not spm_model_path.endswith(".model") else spm_model_path
+
     # Instantiate and load
     sp = spm.SentencePieceProcessor()
     sp.load(spm_model_path)
-    
+
     # Create the tools
-    encoder = lambda x: sp.encode(x)
-    decoder = lambda x: sp.decode(x)
-    
+    if special_nl_token:
+        encoder = lambda x: sp.encode(x.replace("\n", nl_token))
+        decoder = lambda x: sp.decode(x).replace(nl_token, "\n")
+    else:
+        encoder = lambda x: sp.encode(x)
+        decoder = lambda x: sp.decode(x)
+
     if return_processor:
         return sp, encoder, decoder
     else:
@@ -105,7 +112,7 @@ def preprocess_shakespeare(raw_text, remove_warning_text=True, remove_rare_chars
         raw_ss_text = '\n\n'.join(raw_text_sections[preamble_end:])
 
     # Remove the text after "THE END" and split on "by William Shakespeare"
-    if remove_bookends: 
+    if remove_bookends:
         ss_text = ''.join(
             [x.rsplit("THE END", 1)[0] for x in raw_ss_text.split("by William Shakespeare") if "THE END" in x]
         )
@@ -147,7 +154,7 @@ def save_to_txt_file(text, path):
     """
     with open(path, "w") as f:
         f.write(text)
-        
+
 
 def shuffle_text(text, delimiter='\n\n'):
     """ Shuffle the sections of a string.
@@ -162,7 +169,7 @@ def shuffle_text(text, delimiter='\n\n'):
     text_sections = text.split(delimiter)
     random.shuffle(text_sections)
     return delimiter.join(text_sections)
-    
+
 
 def print_check_speare(ss_text):
     ################################################################################
